@@ -1,8 +1,47 @@
-# awesome-security-GRC
-Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
+# GRC? lol
 
-# Why this?
+# Governance & Audit
 
-## Why not this?
+## Strategy
 
-### And this?
+## Business vs. Technical
+
+## Getting Buy-in
+
+## Building an overarching Security Program
+
+# Risk Management
+
+## What is it?
+
+## Cyber Risk Quantification
+
+### Books
+
+### Articles
+
+### Videos/Courses
+
+# Compliance
+
+## Compliance vs. Security?
+
+## ISO27001
+
+## SOC2
+
+## NIST
+
+## GDPR
+
+## Others
+
+# Career Development
+
+## Technical knowledge
+
+## Functional knowledge
+
+## Business knowledge
+
+## Soft skills
