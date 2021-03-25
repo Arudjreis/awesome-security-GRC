@@ -1,4 +1,4 @@
-# GRC? lol
+# Great Repository Challenge accepted!
 
 This is a list of resources (most are free, some are cheap, a handful are expensive) for security GRC folks.
 
@@ -10,7 +10,9 @@ Some of us work for SaaS companies (me! :bowtie:), the financial sector, healthc
 
 So I thought, why not build a similar knowledge management platform... I know it's a GitHub repo but that makes my endeavour sound a lot more serious and technical than it actually is. Awesome content curation lists are amazing and I thought we should have one!
 
-TESTING GIT
+This is GitHub which means, Pull Requests are more than welcome! Feel free to share your resources, correct my faulty Frenglinsh or add cooler emojis.
+
+> *This contains an awful lot of expert puns and boomer jokes* 
 
 # Governance & Audit
 
