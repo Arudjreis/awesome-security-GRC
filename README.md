@@ -1,4 +1,4 @@
-# Grand Repository Challenge accepted!
+# :bar_chart: Grand Repository Challenge accepted!
 
 This is a list of resources (most are free, some are cheap, a handful are expensive) for security GRC folks.
 
