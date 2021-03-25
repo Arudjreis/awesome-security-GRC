@@ -2,7 +2,7 @@
 
 This is a list of resources (most are free, some are cheap, a handful are expensive) for security GRC folks.
 
-Each of you probably has a different title. Cyber Risk Managers, Security Compliance Program Managers, Business Information Security Officers, Security Risk & Compliance Senior Analyst, Third-Party Risk Management Governance Lead, GRC something, etc.
+Each of you probably has a different title. Cyber Risk Managers, Security Compliance Program Managers, Business Information Security Officers, Security Risk & Compliance Senior Analysts, Third-Party Risk Management Governance Leads, GRC something, etc.
 
 This variety is naming isn't that great because it's easy for software developers to come together as a community to organize knowledge and share information. A software engineer can be a developer, a software engineer or a software developer. Any sub-sections of this (back-end, front-end, etc.) still means a major trunk of knowledge is useful and relevant to most SWE.
 
