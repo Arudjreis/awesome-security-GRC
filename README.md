@@ -20,25 +20,21 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 # Governance & Audit
 
-## Strategy
+## What is it?
 
 Strategy is what's before everything else but probably what's also after everything else. You need it to have the right direction and external inputs are critical for actually choosing the right direction. None of those resources involve reading PPT slides.
 
-[link]
+## Books
 
-## Business vs. Technical
+## Articles/Reports
 
-## Getting Buy-in
-
-## Building an overarching Security Program
+## Videos/Courses
 
 # Risk Management
 
 ## What is it?
 
-## Cyber Risk Quantification
-
-### Books
+## Books
 
 :train: [**Measuring and Managing Information Risk**, *Jack Freund & Jack Jones*, 2014](https://learning.oreilly.com/library/view/measuring-and-managing/9780124202313/)
 * The FAIR book itself. Self explanatory, if you want to know more about risk quantification this is a must-read, the story in the intro is meme material.
@@ -49,11 +45,15 @@ Strategy is what's before everything else but probably what's also after everyth
   * You **have *more* data** than you think
   * You **need *less* data** than you think
 
-### Articles
+## Articles/Reports
 
-### Videos/Courses
+:dvd: Everything written by [**Ryan McGeehan**](https://scrty.io/).
+* His website references over a dozen articles on Risk Management. Some of them are [*waaaay*](https://magoo.medium.com/hypothesis-risk-and-science-439fc8b05ffb)
+* His various experience at Coinbase and Facebook and as a Start-up security advisor makes his input super relevant if you're working for a SaaS company as an example
 
-:tv: I have a full playlist of over [80 videos focus on Risk Management and CRQ,](https://www.youtube.com/playlist?list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) will either update it soon or detail the most relevant videos and talks directly here
+## Videos/Courses
+
+:tv: I have a full playlist of over [80 videos focus on Risk Management and CRQ,](https://www.youtube.com/playlist?list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) will either update it soon or detail the most relevant videos and talks directly here.
 
 # Compliance
 
