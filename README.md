@@ -53,6 +53,8 @@ Strategy is what's before everything else but probably what's also after everyth
 
 ### Videos/Courses
 
+:tv: I have a full playlist of over [80 videos focus on Risk Management and CRQ,](https://www.youtube.com/playlist?list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) will either update it soon or detail the most relevant videos and talks directly here
+
 # Compliance
 
 ## Compliance vs. Security?
