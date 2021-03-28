@@ -40,6 +40,12 @@ Strategy is what's before everything else but probably what's also after everyth
 
 ### Books
 
+[**Measuring and Managing Information Risk**, *Jack Freund & Jack Jones*, 2014](https://learning.oreilly.com/library/view/measuring-and-managing/9780124202313/)
+The FAIR book itself. Self explanatory, if you want to know more about risk quantification this is a must-read, the story in the intro is meme material.
+
+[**How to Measure Anything in Cybersecurity Risk**, *Douglas Hubbard & Richard Seiersen*, 2016](https://learning.oreilly.com/library/view/how-to-measure/9781119085294/)
+
+
 ### Articles
 
 ### Videos/Courses
@@ -64,9 +70,23 @@ Strategy is what's before everything else but probably what's also after everyth
 
 This section might seem out of place for a content curation repository but I'm passionnate about this, sorry.
 
+Security is a very young field and ours in even younger. Career pathways are still developing and no one *actually* know the sureway to a GRC leadership role or a CISO position.
 
+The only thing that's certain is that this is the best thing that could happen to us. We can build our own paths. The only way we do this is through learning. Our field is about understanding, managing and translating. We understand the technical, manage security projects and translate into security terms business requirements.
+
+If you're a jack-of-all-trades, love learning new things, being inquisitive but always having the business goals in mind, then it's the field for you. If you're not, it's probably the field for you anyway or you wouldn't be here!
 
 ## Technical knowledge
+
+Technical knowledge is a very vague concept. Let's categorize that further.
+
+### Networking
+
+### Operating systems
+
+### Development
+
+###
 
 ## Security knowledge
 
