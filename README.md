@@ -22,6 +22,10 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 ## Strategy
 
+Strategy is what's before everything else but probably what's also after everything else. You need it to have the right direction and external inputs are critical for actually choosing the right direction. None of those resources involve reading PPT slides.
+
+[link]
+
 ## Business vs. Technical
 
 ## Getting Buy-in
@@ -56,9 +60,15 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 # Career Development
 
+**We are offered jobs but we have a career.** We're the only one accountable for our career path and the best way to make the best of this is to continuously learn.
+
+This section might seem out of place for a content curation repository but I'm passionnate about this, sorry.
+
+
+
 ## Technical knowledge
 
-## Functional knowledge
+## Security knowledge
 
 ## Business knowledge
 
