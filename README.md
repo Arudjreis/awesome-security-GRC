@@ -41,6 +41,7 @@ Strategy is what's before everything else but probably what's also after everyth
 ### Books
 
 [**Measuring and Managing Information Risk**, *Jack Freund & Jack Jones*, 2014](https://learning.oreilly.com/library/view/measuring-and-managing/9780124202313/)
+
 The FAIR book itself. Self explanatory, if you want to know more about risk quantification this is a must-read, the story in the intro is meme material.
 
 [**How to Measure Anything in Cybersecurity Risk**, *Douglas Hubbard & Richard Seiersen*, 2016](https://learning.oreilly.com/library/view/how-to-measure/9781119085294/)
