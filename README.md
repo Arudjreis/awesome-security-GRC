@@ -18,7 +18,9 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 > *This contains an awful lot of expert puns and boomer jokes* 
 
-# Governance & Audit
+# Governance
+
+It's the chicken and the egg problem. Is governance the basis of everything or is proper risk management the prerequisite to an effective governance program
 
 ## What is it?
 
@@ -55,7 +57,7 @@ Strategy is what's before everything else but probably what's also after everyth
 
 :tv: I have a full playlist of over [80 videos focus on Risk Management and CRQ,](https://www.youtube.com/playlist?list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) will either update it soon or detail the most relevant videos and talks directly here.
 
-# Compliance
+# Compliance & Audit
 
 ## Compliance vs. Security?
 
