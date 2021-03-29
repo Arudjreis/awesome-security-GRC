@@ -33,6 +33,7 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 * Repositories
 * Podcasts
 * Certifications
+* The Knowledge Trifecta
 
 # What is Security GRC?
 
@@ -72,7 +73,7 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 # Certifications
 
-# Career Development
+# The Knowledge Trifecta
 
 **We are offered jobs but we have a career.** We're the only one accountable for our career path and the best way to make the best of this is to continuously learn.
 
@@ -84,20 +85,8 @@ The only thing that's certain is that this is the best thing that could happen t
 
 If you're a jack-of-all-trades, love learning new things, being inquisitive but always having the business goals in mind, then it's the field for you. If you're not, it's probably the field for you anyway or you wouldn't be here!
 
-## Technical knowledge
+## The Technical
 
-Technical knowledge is a very vague concept. Let's categorize that further.
+## The Security
 
-### Networking
-
-### Operating systems
-
-### Development
-
-###
-
-## Security knowledge
-
-## Business knowledge
-
-## Soft skills
+## The Business
