@@ -1,3 +1,5 @@
+![GRC in a nutshell](https://www.softexpert.com/wp-content/uploads/2016/09/xframework-grc-2.png.pagespeed.ic.7RthXjt7xe.png)
+
 # :tada: Grand Repository Challenge accepted!
 
 This is a list of resources (most are free, some are cheap, a handful are expensive) for security GRC folks.
@@ -18,25 +20,29 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 > *This contains an awful lot of expert puns and boomer jokes* 
 
-# Governance
+# Contents
 
-It's the chicken and the egg problem. Is governance the basis of everything or is proper risk management the prerequisite to an effective governance program
+* What is Security GRC?
+  * Governance
+  * Risk Management
+  * Audit & Compliance
+* Books
+* Articles/Reports
+* Talks/Videos
+* Thought Leaders
+* Repositories
+* Podcasts
+* Certifications
 
-## What is it?
+# What is Security GRC?
 
-Strategy is what's before everything else but probably what's also after everything else. You need it to have the right direction and external inputs are critical for actually choosing the right direction. None of those resources involve reading PPT slides.
+## Governance
 
-## Books
+## Risk Management
 
-## Articles/Reports
+## Audit & Compliance
 
-## Videos/Courses
-
-# Risk Management
-
-## What is it?
-
-## Books
+# Books
 
 :train: [**Measuring and Managing Information Risk**, *Jack Freund & Jack Jones*, 2014](https://learning.oreilly.com/library/view/measuring-and-managing/9780124202313/)
 * The FAIR book itself. Self explanatory, if you want to know more about risk quantification this is a must-read, the story in the intro is meme material.
@@ -47,29 +53,24 @@ Strategy is what's before everything else but probably what's also after everyth
   * You **have *more* data** than you think
   * You **need *less* data** than you think
 
-## Articles/Reports
+# Articles/Reports
 
-:dvd: Everything written by [**Ryan McGeehan**](https://scrty.io/).
-* His website references over a dozen articles on Risk Management. Some of them are [*waaaay*](https://magoo.medium.com/hypothesis-risk-and-science-439fc8b05ffb)
-* His various experience at Coinbase and Facebook and as a Start-up security advisor makes his input super relevant if you're working for a SaaS company as an example
-
-## Videos/Courses
+# Reports
 
 :tv: I have a full playlist of over [80 videos focus on Risk Management and CRQ,](https://www.youtube.com/playlist?list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) will either update it soon or detail the most relevant videos and talks directly here.
 
-# Compliance & Audit
+# Thought Leaders
 
-## Compliance vs. Security?
+* :dvd: Everything written by [**Ryan McGeehan**](https://scrty.io/).
+  * His website references over a dozen articles on Risk Management. Some of them are [*waaaay*](https://magoo.medium.com/hypothesis-risk-and-science-439fc8b05ffb)
+  * His various experience at Coinbase and Facebook and as a Start-up security advisor makes his input super relevant if you're working at SaaS company as an example
+  * 
 
-## ISO27001
+# Repositories
 
-## SOC2
+# Podcasts
 
-## NIST
-
-## GDPR
-
-## Others
+# Certifications
 
 # Career Development
 
