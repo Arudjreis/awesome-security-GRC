@@ -1,6 +1,6 @@
 ![GRC in a nutshell](https://www.softexpert.com/wp-content/uploads/2016/09/xframework-grc-2.png.pagespeed.ic.7RthXjt7xe.png)
 
-***:tada: Grand Repository Challenge accepted!***
+# :tada: Grand Repository Challenge accepted!
 
 This is a list of resources (most are free, some are cheap, a handful are expensive) for security GRC folks.
 
@@ -20,6 +20,10 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 > *This contains an awful lot of expert puns and boomer jokes* 
 
+## Contents
+
+- [:tada: Grand Repository Challenge accepted!](#tada-grand-repository-challenge-accepted)
+  - [Contents](#contents)
 - [What is Security GRC?](#what-is-security-grc)
   - [Governance](#governance)
   - [Risk Management](#risk-management)
