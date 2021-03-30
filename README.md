@@ -67,7 +67,7 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
   * His various experience at Coinbase and Facebook and as a Start-up security advisor makes his input super relevant if you're working at SaaS company as an example
 
 * :bank: Everything written by [**Phil Venables**](https://www.philvenables.com/home).
-  * His take on most subjects are worth the read, he has a great analysis of the [**Compliance vs. Security**](https://www.philvenables.com/post/compliance-vs-security) debate
+  * His take on most subjects are worth the read, he has a great analysis of the [*Compliance vs. Security*](https://www.philvenables.com/post/compliance-vs-security) debate
   * Phil has over 20 years of experience in security leadership at Goldman Sachs and now the CISO of Google Cloud
 
 
