@@ -29,7 +29,7 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 * Books
 * Articles/Reports
 * Talks/Videos
-* Thought Leaders
+* People you should know
 * Repositories
 * Podcasts
 * Certifications
@@ -60,7 +60,9 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 :tv: I have a full playlist of over [80 videos focus on Risk Management and CRQ,](https://www.youtube.com/playlist?list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) will either update it soon or detail the most relevant videos and talks directly here.
 
-# Thought Leaders
+# People you should know
+
+## Thought Leaders
 
 * :dvd: Everything written by [**Ryan McGeehan**](https://scrty.io/).
   * His website references over a dozen articles on Risk Management. Some of them are [*waaaay*](https://magoo.medium.com/hypothesis-risk-and-science-439fc8b05ffb) over my head
@@ -70,6 +72,7 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
   * His take on most subjects are worth the read, he has a great analysis of the [*Compliance vs. Security*](https://www.philvenables.com/post/compliance-vs-security) debate
   * Phil has over 20 years of experience in security leadership at Goldman Sachs and now the CISO of Google Cloud
 
+## Follow them on LinkedIn
 
 # Repositories
 
