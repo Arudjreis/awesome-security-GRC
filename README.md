@@ -52,14 +52,14 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 # Books
 
-:train: [**Measuring and Managing Information Risk**, *Jack Freund & Jack Jones*, 2014](https://learning.oreilly.com/library/view/measuring-and-managing/9780124202313/)
-* The FAIR book itself. Self explanatory, if you want to know more about risk quantification this is a must-read, the story in the intro is meme material.
+* :train: [**Measuring and Managing Information Risk**, *Jack Freund & Jack Jones*, 2014](https://learning.oreilly.com/library/view/measuring-and-managing/9780124202313/)
+  * The FAIR book itself. Self explanatory, if you want to know more about risk quantification this is a must-read, the story in the intro is meme material.
 
-:chart_with_upwards_trend: [**How to Measure Anything in Cybersecurity Risk**, *Douglas Hubbard & Richard Seiersen*, 2016](https://learning.oreilly.com/library/view/how-to-measure/9781119085294/)
-* Amazing primer on Cyber Risk Quantification as a whole. Keep these things in mind:
-  * Your problem is not **as unique** as you think
-  * You **have *more* data** than you think
-  * You **need *less* data** than you think
+  *:chart_with_upwards_trend: [**How to Measure Anything in Cybersecurity Risk**, *Douglas Hubbard & Richard Seiersen*, 2016](https://learning.oreilly.com/library/view/how-to-measure/9781119085294/)
+  * Amazing primer on Cyber Risk Quantification as a whole. Keep these things in mind:
+    * Your problem is not **as unique** as you think
+    * You **have *more* data** than you think
+    * You **need *less* data** than you think
 
 # Articles/Reports
 
@@ -70,7 +70,7 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
   * :orange_book: **Program Frameworks** such as *ISO 27001* or *NIST CSF* to standardize an overarching security program
   * :blue_book: **Risk Frameworks** such as *NIST 800-37* or *FAIR* to identify, measure and quantify risk
 
-* :tv: I have a full playlist of over [80 videos focus on Risk Management and CRQ,](https://www.youtube.com/playlist?list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) will update it soon but it already has a lot .
+* :tv: I have a full playlist of over [80 videos focus on Risk Management and CRQ,](https://www.youtube.com/playlist?list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) will update it soon but it already has a lot.
 
 # People you should know
 
