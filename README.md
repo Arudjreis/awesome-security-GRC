@@ -22,18 +22,25 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 # Contents
 
-* What is Security GRC?
-  * Governance
-  * Risk Management
-  * Audit & Compliance
-* Books
-* Articles/Reports
-* Talks/Videos
-* People you should know
-* Repositories
-* Podcasts
-* Certifications
-* The Knowledge Trifecta
+- [:tada: Grand Repository Challenge accepted!](#tada-grand-repository-challenge-accepted)
+- [Contents](#contents)
+- [What is Security GRC?](#what-is-security-grc)
+  - [Governance](#governance)
+  - [Risk Management](#risk-management)
+  - [Audit & Compliance](#audit--compliance)
+- [Books](#books)
+- [Articles/Reports](#articlesreports)
+- [Talks/Videos](#talksvideos)
+- [People you should know](#people-you-should-know)
+  - [Thought Leaders](#thought-leaders)
+  - [Follow them on LinkedIn](#follow-them-on-linkedin)
+- [Repositories](#repositories)
+- [Podcasts](#podcasts)
+- [Certifications](#certifications)
+- [The Knowledge Trifecta](#the-knowledge-trifecta)
+  - [The Technical](#the-technical)
+  - [The Security](#the-security)
+  - [The Business](#the-business)
 
 # What is Security GRC?
 
@@ -56,7 +63,7 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 # Articles/Reports
 
-# Reports
+# Talks/Videos
 
 :tv: I have a full playlist of over [80 videos focus on Risk Management and CRQ,](https://www.youtube.com/playlist?list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) will either update it soon or detail the most relevant videos and talks directly here.
 
