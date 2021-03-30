@@ -29,7 +29,6 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
   - [Risk Management](#risk-management)
   - [Audit & Compliance](#audit--compliance)
 - [Books](#books)
-- [Articles/Reports](#articlesreports)
 - [Talks/Videos](#talksvideos)
 - [People you should know](#people-you-should-know)
   - [Thought Leaders](#thought-leaders)
@@ -60,8 +59,6 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
     * Your problem is not **as unique** as you think
     * You **have *more* data** than you think
     * You **need *less* data** than you think
-
-# Articles/Reports
 
 # Talks/Videos
 
