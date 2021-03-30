@@ -25,11 +25,11 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 - [:tada: Grand Repository Challenge accepted!](#tada-grand-repository-challenge-accepted)
   - [:notebook_with_decorative_cover: Contents](#notebook_with_decorative_cover-contents)
 - [What is Security GRC?](#what-is-security-grc)
-  - [Governance](#governance)
+  - [:guardsman: Governance](#guardsman-governance)
   - [:chart_with_upwards_trend: Risk Management](#chart_with_upwards_trend-risk-management)
-  - [Audit & Compliance](#audit--compliance)
+  - [:gun: Audit & Compliance](#gun-audit--compliance)
 - [:books: Books](#books-books)
-- [Talks/Videos](#talksvideos)
+- [:tv: Talks/Videos](#tv-talksvideos)
 - [People you should know](#people-you-should-know)
   - [Thought Leaders](#thought-leaders)
   - [Follow them on LinkedIn](#follow-them-on-linkedin)
@@ -43,11 +43,11 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 # What is Security GRC?
 
-## Governance
+## :guardsman: Governance
 
 ## :chart_with_upwards_trend: Risk Management
 
-## Audit & Compliance
+## :gun: Audit & Compliance
 
 # :books: Books
 
@@ -60,14 +60,14 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
     * You **have *more* data** than you think
     * You **need *less* data** than you think
 
-# Talks/Videos
+# :tv: Talks/Videos
 
 * A [great foundational talk](https://www.youtube.com/watch?v=dt2IqidgpS4) to understand how every framework are working into one another:
   * :green_book: **Control Frameworks** such as *NIST 800-53* or *CIS 20 Controls* for building your security baseline
   * :orange_book: **Program Frameworks** such as *ISO 27001* or *NIST CSF* to standardize an overarching security program
   * :blue_book: **Risk Frameworks** such as *NIST 800-37* or *FAIR* to identify, measure and quantify risk
 
-* :tv: I have a full playlist of over [80 videos focus on Risk Management and CRQ,](https://www.youtube.com/playlist?list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) will update it soon but it already has a lot.
+* I have a full playlist of over [80 videos focus on Risk Management and CRQ,](https://www.youtube.com/playlist?list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) will update it soon but it already has a lot.
 
 # People you should know
 
