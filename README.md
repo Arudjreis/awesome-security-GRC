@@ -63,8 +63,11 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 # Thought Leaders
 
 * :dvd: Everything written by [**Ryan McGeehan**](https://scrty.io/).
-  * His website references over a dozen articles on Risk Management. Some of them are [*waaaay*](https://magoo.medium.com/hypothesis-risk-and-science-439fc8b05ffb)
+  * His website references over a dozen articles on Risk Management. Some of them are [*waaaay*](https://magoo.medium.com/hypothesis-risk-and-science-439fc8b05ffb) over my head
   * His various experience at Coinbase and Facebook and as a Start-up security advisor makes his input super relevant if you're working at SaaS company as an example
+
+* :bank: Everything written by [**Phil Venables](https://www.philvenables.com/home).
+  * Phil has over 20 years of experience in security leadership at Goldman Sachs and now the CISO of Google Cloud
   * 
 
 # Repositories
