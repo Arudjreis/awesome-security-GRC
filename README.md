@@ -24,24 +24,24 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 - [:tada: Grand Repository Challenge accepted!](#tada-grand-repository-challenge-accepted)
   - [:notebook_with_decorative_cover: Contents](#notebook_with_decorative_cover-contents)
-- [What is Security GRC?](#what-is-security-grc)
+- [:mortar_board: What is Security GRC?](#mortar_board-what-is-security-grc)
   - [:guardsman: Governance](#guardsman-governance)
   - [:chart_with_upwards_trend: Risk Management](#chart_with_upwards_trend-risk-management)
   - [:gun: Audit & Compliance](#gun-audit--compliance)
 - [:books: Books](#books-books)
 - [:tv: Talks/Videos](#tv-talksvideos)
-- [People you should know](#people-you-should-know)
-  - [Thought Leaders](#thought-leaders)
-  - [Follow them on LinkedIn](#follow-them-on-linkedin)
-- [Repositories](#repositories)
-- [Podcasts](#podcasts)
-- [Certifications](#certifications)
-- [The Knowledge Trifecta](#the-knowledge-trifecta)
-  - [The Technical](#the-technical)
-  - [The Security](#the-security)
-  - [The Business](#the-business)
+- [:telephone_receiver: People you should know](#telephone_receiver-people-you-should-know)
+  - [:feelsgood: Thought Leaders](#feelsgood-thought-leaders)
+  - [:iphone: Follow them on LinkedIn](#iphone-follow-them-on-linkedin)
+- [:octocat: Repositories](#octocat-repositories)
+- [:microphone: Podcasts](#microphone-podcasts)
+- [:scroll: Certifications](#scroll-certifications)
+- [:triangular_ruler: The Knowledge Trifecta](#triangular_ruler-the-knowledge-trifecta)
+  - [:floppy_disk: The Technical](#floppy_disk-the-technical)
+  - [:lock_with_ink_pen: The Security](#lock_with_ink_pen-the-security)
+  - [:briefcase: The Business](#briefcase-the-business)
 
-# What is Security GRC?
+# :mortar_board: What is Security GRC?
 
 ## :guardsman: Governance
 
@@ -69,9 +69,9 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 * I have a full playlist of over [80 videos focus on Risk Management and CRQ,](https://www.youtube.com/playlist?list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) will update it soon but it already has a lot.
 
-# People you should know
+# :telephone_receiver: People you should know
 
-## Thought Leaders
+## :feelsgood: Thought Leaders
 
 * :dvd: Everything written by [**Ryan McGeehan**](https://scrty.io/).
   * His website references over a dozen articles on Risk Management. Some of them are [*waaaay*](https://magoo.medium.com/hypothesis-risk-and-science-439fc8b05ffb) over my head
@@ -81,15 +81,15 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
   * His take on most subjects are worth the read, he has a great analysis of the [*Compliance vs. Security*](https://www.philvenables.com/post/compliance-vs-security) debate
   * Phil has over 20 years of experience in security leadership at Goldman Sachs and now the CISO of Google Cloud
 
-## Follow them on LinkedIn
+## :iphone: Follow them on LinkedIn
 
-# Repositories
+# :octocat: Repositories
 
-# Podcasts
+# :microphone: Podcasts
 
-# Certifications
+# :scroll: Certifications
 
-# The Knowledge Trifecta
+# :triangular_ruler: The Knowledge Trifecta
 
 **We are offered jobs but we have a career.** We're the only one accountable for our career path and the best way to make the best of this is to continuously learn.
 
@@ -101,14 +101,14 @@ The only thing that's certain is that this is the best thing that could happen t
 
 If you're a jack-of-all-trades, love learning new things, being inquisitive but always having the business goals in mind, then it's the field for you. If you're not, it's probably the field for you anyway or you wouldn't be here!
 
-## The Technical
+## :floppy_disk: The Technical
 
 Understanding the technical landscape.
 
-## The Security
+## :lock_with_ink_pen: The Security
 
 Understanding the security measures
 
-## The Business
+## :briefcase: The Business
 
 Understanding the business language
