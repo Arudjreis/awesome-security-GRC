@@ -26,9 +26,9 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
   - [:notebook_with_decorative_cover: Contents](#notebook_with_decorative_cover-contents)
 - [What is Security GRC?](#what-is-security-grc)
   - [Governance](#governance)
-  - [Risk Management](#risk-management)
+  - [:chart_with_upwards_trend: Risk Management](#chart_with_upwards_trend-risk-management)
   - [Audit & Compliance](#audit--compliance)
-- [Books](#books)
+- [:books: Books](#books-books)
 - [Talks/Videos](#talksvideos)
 - [People you should know](#people-you-should-know)
   - [Thought Leaders](#thought-leaders)
@@ -45,16 +45,16 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 ## Governance
 
-## Risk Management
+## :chart_with_upwards_trend: Risk Management
 
 ## Audit & Compliance
 
-# Books
+# :books: Books
 
-* :train: [**Measuring and Managing Information Risk**, *Jack Freund & Jack Jones*, 2014](https://learning.oreilly.com/library/view/measuring-and-managing/9780124202313/)
+* [**Measuring and Managing Information Risk**, *Jack Freund & Jack Jones*, 2014](https://learning.oreilly.com/library/view/measuring-and-managing/9780124202313/)
   * The FAIR book itself. Self explanatory, if you want to know more about risk quantification this is a must-read, the story in the intro is meme material.
 
-* :chart_with_upwards_trend: [**How to Measure Anything in Cybersecurity Risk**, *Douglas Hubbard & Richard Seiersen*, 2016](https://learning.oreilly.com/library/view/how-to-measure/9781119085294/)
+* [**How to Measure Anything in Cybersecurity Risk**, *Douglas Hubbard & Richard Seiersen*, 2016](https://learning.oreilly.com/library/view/how-to-measure/9781119085294/)
   * Amazing primer on Cyber Risk Quantification as a whole. Keep these things in mind:
     * Your problem is not **as unique** as you think
     * You **have *more* data** than you think
@@ -62,7 +62,7 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 # Talks/Videos
 
-* :books: A [great foundational talk](https://www.youtube.com/watch?v=dt2IqidgpS4) to understand how every framework are working into one another:
+* A [great foundational talk](https://www.youtube.com/watch?v=dt2IqidgpS4) to understand how every framework are working into one another:
   * :green_book: **Control Frameworks** such as *NIST 800-53* or *CIS 20 Controls* for building your security baseline
   * :orange_book: **Program Frameworks** such as *ISO 27001* or *NIST CSF* to standardize an overarching security program
   * :blue_book: **Risk Frameworks** such as *NIST 800-37* or *FAIR* to identify, measure and quantify risk
