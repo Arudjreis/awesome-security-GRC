@@ -20,10 +20,10 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 > *This contains an awful lot of expert puns and boomer jokes* 
 
-## Contents
+## :notebook_with_decorative_cover: Contents
 
 - [:tada: Grand Repository Challenge accepted!](#tada-grand-repository-challenge-accepted)
-  - [Contents](#contents)
+  - [:notebook_with_decorative_cover: Contents](#notebook_with_decorative_cover-contents)
 - [What is Security GRC?](#what-is-security-grc)
   - [Governance](#governance)
   - [Risk Management](#risk-management)
@@ -103,6 +103,12 @@ If you're a jack-of-all-trades, love learning new things, being inquisitive but 
 
 ## The Technical
 
+Understanding the technical landscape.
+
 ## The Security
 
+Understanding the security measures
+
 ## The Business
+
+Understanding the business language
