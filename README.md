@@ -68,18 +68,18 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
   * :blue_book: **Risk Frameworks** such as *NIST 800-37* or *FAIR* to identify, measure and quantify risk
 
 * I have a full playlist of over [80 videos focus on Risk Management and Cyber Risk Quantification,](https://www.youtube.com/playlist?list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) will update it soon but it already has a lot.
-  * This quick live [Quantitative Cyber Risk Analysis](https://www.youtube.com/watch?v=fHUv8TJC6kM&list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH&index=5) from Evan Wheeler is a great overview of how straightforward a quantitative analysis can be
-  * Steve Reznik has numerous talks on how FAIR can help build meaningful KRIs but [this one](https://www.youtube.com/watch?v=w4x1tWTiCHg&list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH&index=16) is a starting suggestion
+  * This quick live [Quantitative Cyber Risk Analysis](https://www.youtube.com/watch?v=fHUv8TJC6kM&list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH&index=5) from *Evan Wheeler* is a great overview of how straightforward a quantitative analysis can be
+  * *Steve Reznik* has numerous talks on how FAIR can help build meaningful KRIs but [this one](https://www.youtube.com/watch?v=w4x1tWTiCHg&list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH&index=16) is a starting suggestion
 
 # :telephone_receiver: People you should know
 
 ## :sunglasses: Thought Leaders
 
-* :dvd: Everything written by [**Ryan McGeehan**](https://scrty.io/).
+* :dvd: Everything written by [***Ryan McGeehan***](https://scrty.io/).
   * His website references over a dozen articles on Risk Management. Some of them are [*waaaay*](https://magoo.medium.com/hypothesis-risk-and-science-439fc8b05ffb) over my head
   * His various experience at Coinbase and Facebook and as a Start-up security advisor makes his input super relevant if you're working at SaaS company as an example
 
-* :bank: Everything written by [**Phil Venables**](https://www.philvenables.com/home).
+* :bank: Everything written by [***Phil Venables***](https://www.philvenables.com/home).
   * His take on most subjects are worth the read, he has a great analysis of the [*Compliance vs. Security*](https://www.philvenables.com/post/compliance-vs-security) debate
   * Phil has over 20 years of experience in security leadership at Goldman Sachs and now the CISO of Google Cloud
 
