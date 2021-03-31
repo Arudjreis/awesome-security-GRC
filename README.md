@@ -31,7 +31,7 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 - [:books: Books](#books-books)
 - [:tv: Talks/Videos](#tv-talksvideos)
 - [:telephone_receiver: People you should know](#telephone_receiver-people-you-should-know)
-  - [:feelsgood: Thought Leaders](#feelsgood-thought-leaders)
+  - [:sunglasses: Thought Leaders](#sunglasses-thought-leaders)
   - [:iphone: Follow them on LinkedIn](#iphone-follow-them-on-linkedin)
 - [:octocat: Repositories](#octocat-repositories)
 - [:microphone: Podcasts](#microphone-podcasts)
@@ -73,7 +73,7 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 # :telephone_receiver: People you should know
 
-## :feelsgood: Thought Leaders
+## :sunglasses: Thought Leaders
 
 * :dvd: Everything written by [**Ryan McGeehan**](https://scrty.io/).
   * His website references over a dozen articles on Risk Management. Some of them are [*waaaay*](https://magoo.medium.com/hypothesis-risk-and-science-439fc8b05ffb) over my head
