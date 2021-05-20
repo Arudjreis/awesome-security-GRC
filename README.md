@@ -14,7 +14,7 @@ Some of us work for SaaS companies (me! :bowtie:), the financial sector, healthc
 
 So I thought, why not build a similar knowledge management platform... I know it's a GitHub repo but that makes my endeavour sound a lot more serious and technical than it actually is. I just thought content curation lists were amazing and that we should have one!
 
-This is GitHub which means, Pull Requests are more than welcome! 
+This is GitHub which means, Pull Requests are more than welcome! Nothing here is gospel, definitions are often subject to debates and heated discussions on LinkedIn and everyone has a different opinion on G, R and C (hatred for C is probably consensual IMHO).
 
 Feel free to share your resources, correct my faulty Frenglish or add cooler emojis.
 
