@@ -60,6 +60,18 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
     * You **have *more* data** than you think
     * You **need *less* data** than you think
 
+* [**The Cybersecurity Manager's Guide**, *Todd Barnum*, 2021](https://learning.oreilly.com/library/view/the-cybersecurity-managers/9781492076209/)
+  * Probably the best information security book you'll ever read, Todd has been the CISO of GoPro for 6 years and worked in a variety of industries in the last three decades
+  * What defines our field:
+    * Nobody Really Cares
+    * Nobody Understands
+    * Fear Drives Our Industry
+  * The Four Cornerstones of your Security Program:
+    * Documentation
+    * Governance
+    * Security Architecture
+    * Communication, Education and Awareness
+
 # :tv: Talks/Videos
 
 * A [great foundational talk](https://www.youtube.com/watch?v=dt2IqidgpS4) to understand how every framework are working into one another:
