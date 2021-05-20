@@ -45,7 +45,18 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 ## :guardsman: Governance
 
+Governance, as the name implies, focuses on how security is managed and its oversight. This could include building the security strategy, managing the security programme and ensuring continous monitoring of workstreams.
+
+This would also be the area responsible for orchestration and metrics for your security programme. In other words, the always useful dashboard with 15 graphs and thousands of data points would be include in the governance efforts.
+
 ## :chart_with_upwards_trend: Risk Management
+
+How do I know what's the priority for my security programme? Lockdown end-user access or focus on patching? (probably both lol) The only way to make rational decisions regarding what to do is to perform risk assessments.
+
+Risk is traditionally explained as a factor of a threat and a vulnerability. Pretty simplistic (probably false as well) but it gets the job done:
+* A threat is a potential harmful event that could impact your organisation
+* A vulnerability is a known weakness that could be exploited
+* A risk is threat * vulnerability... A risk is the impact if the threat exploits the vulnerability (R = T*V)
 
 ## :gun: Audit & Compliance
 
