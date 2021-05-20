@@ -43,6 +43,8 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 # :mortar_board: What is Security GRC?
 
+The security GRC field is covering lots of ground and include a varied number of tasks and responsibilities. Some of them will sound exciting, some will reignite very painful memories. 
+
 ## :guardsman: Governance
 
 Governance, as the name implies, focuses on how security is managed and its oversight. This could include building the security strategy, managing the security programme and ensuring continous monitoring of workstreams.
@@ -58,7 +60,15 @@ Risk is traditionally explained as a factor of a threat and a vulnerability. Pre
 * A vulnerability is a known weakness that could be exploited
 * A risk is threat * vulnerability... A risk is the impact if the threat exploits the vulnerability (R = T*V)
 
+A robust risk management program would also include some quantitative features to make sure senior management and business executives understands the financial costs associated with some of the identified risks. Nothing has to be too precise or too detailed, having numbers in the right ballpark and being able to evidence why you chose them is well more than enough.
+
 ## :gun: Audit & Compliance
+
+Once you know what your direction is and you know what to focus on, how do you know you're on track? There's two ways:
+* Auditing allows you to know if the controls you chose and your security programme is working effectively
+* Compliance is how close are you to the baseline either set by yourself or by a 3rd party body (ISO, AICPA, insert acronyms)
+
+Often hated (often for good reasons), audit and compliance folks have to be annoying by nature. They assess how things you said you'd do are actually done in the real world. More often than not, things are either not done as they should or not done at all. Probably because no one has read the policies you took six months to write!
 
 # :books: Books
 
