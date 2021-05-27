@@ -72,6 +72,8 @@ Often hated (often for good reasons), audit and compliance folks have to be anno
 
 # :books: Books
 
+* Security Risk Management, Evan Wheeler
+
 * [**Measuring and Managing Information Risk**, *Jack Freund & Jack Jones*, 2014](https://learning.oreilly.com/library/view/measuring-and-managing/9780124202313/)
   * The FAIR book itself. Self explanatory, if you want to know more about risk quantification this is a must-read, the story in the intro is meme material.
 
@@ -80,6 +82,14 @@ Often hated (often for good reasons), audit and compliance folks have to be anno
     * Your problem is not **as unique** as you think
     * You **have *more* data** than you think
     * You **need *less* data** than you think
+
+* [**Foundations of Information Security**, *Jason Andress*, 2019](https://learning.oreilly.com/library/view/foundations-of-information/9781098122546/)
+  * High-level overview of Information Security, touching on every topic relevant for a practitioner or a newcomer to the field
+  * This baseline of knowledge is great to ensure you understand every control in your framework of choice
+
+* [ISO 27001 controls – A guide to implementing and auditing, Bridget Kenyon, 2019]
+
+* [A Leader's Guide to Cybersecurity, Thomas J. Parenty and Jack J. Domet, 2019]
 
 * [**The Cybersecurity Manager's Guide**, *Todd Barnum*, 2021](https://learning.oreilly.com/library/view/the-cybersecurity-managers/9781492076209/)
   * Probably the best information security book you'll ever read, Todd has been the CISO of GoPro for 6 years and worked in a variety of industries in the last three decades
