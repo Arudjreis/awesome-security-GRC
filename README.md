@@ -120,27 +120,28 @@ Often hated (often for good reasons), audit and compliance folks have to be anno
 
 # :octocat: Repositories
 
-Comply is a SOC2-focused compliance automation tool https://github.com/strongdm/comply
-Datica HIPAA Compliance Policies https://github.com/catalyzeio/policies/
-GovReady-Q Compliance Server is an open source GRC platform for highly automated, user-friendly, self-service compliance assessments and documentation. https://github.com/GovReady/govready-q
+Comply is a SOC2-focused compliance automation tool https://github.com/strongdm/comply  
+Datica HIPAA Compliance Policies https://github.com/catalyzeio/policies/  
+GovReady-Q Compliance Server is an open source GRC platform for highly automated, user-friendly, self-service compliance assessments and documentation. https://github.com/GovReady/govready-q  
+  
 # :microphone: Podcasts
 
 # :scroll: Certifications
 
-Consider that these are not listed in a particular "order of importance."  You should allign your current skills and long term goals when determining a path to certification.
-
-CRISC - ISACA - Certified in Risk and Information Systems Control (https://www.isaca.org/credentialing/crisc)
-
-GRCP - OCEG - GRC Professional Certification (https://www.oceg.org/certifications/grc-professional-certification/)
-
-CRMA - theiia - Certification in Risk Management Assurance (https://na.theiia.org/certification/crma-certification/pages/crma-certification.aspx)
-
-PMI-RMP - PMI - PMI Risk Management Professional (https://www.pmi.org/certifications/risk-management-rmp)
-
-CISM - ISACA - Certified Information Security Manager (https://www.isaca.org/credentialing/cism)
-
-CISSP - isc2 - Certified Information Systems Security Professional (https://www.isc2.org/Certifications/CISSP)
-
+Consider that these are not listed in a particular "order of importance."  You should allign your current skills and long term goals when determining a path to certification.  
+  
+CRISC - ISACA - Certified in Risk and Information Systems Control (https://www.isaca.org/credentialing/crisc)  
+  
+GRCP - OCEG - GRC Professional Certification (https://www.oceg.org/certifications/grc-professional-certification/)  
+  
+CRMA - theiia - Certification in Risk Management Assurance (https://na.theiia.org/certification/crma-certification/pages/crma-certification.aspx)  
+  
+PMI-RMP - PMI - PMI Risk Management Professional (https://www.pmi.org/certifications/risk-management-rmp)  
+  
+CISM - ISACA - Certified Information Security Manager (https://www.isaca.org/credentialing/cism)  
+  
+CISSP - isc2 - Certified Information Systems Security Professional (https://www.isc2.org/Certifications/CISSP)  
+  
 # :triangular_ruler: The Knowledge Trifecta
 
 **We are offered jobs but we have a career.** We're the only one accountable for our career path and the best way to make the best of this is to continuously learn.
