@@ -188,11 +188,11 @@ Understanding the security measures
 Understanding the business language
 
 What drives strong GRC programs?  
-*A Clearly defined business case and plan for implementing and supporting a GRC program  
-*Written policies, procedures and standards of conduct  
-*Assigned Compliance Officer, Compliance Committee and high level oversight  
-*Effective training and education  
-*Effective lines of communication, especially for internal reporting  
-*Effective systems for routine monitoring, auditing and identification of compliance risks  
-*Procedures and system for prompt response to compliance issues  
+* A Clearly defined business case and plan for implementing and supporting a GRC program  
+* Written policies, procedures and standards of conduct  
+* Assigned Compliance Officer, Compliance Committee and high level oversight  
+* Effective training and education  
+* Effective lines of communication, especially for internal reporting  
+* Effective systems for routine monitoring, auditing and identification of compliance risks  
+* Procedures and system for prompt response to compliance issues  
   
