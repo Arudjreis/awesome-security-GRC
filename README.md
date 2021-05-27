@@ -86,17 +86,21 @@ Often hated (often for good reasons), audit and compliance folks have to be anno
     * You **need *less* data** than you think
 
 * [**Transformational Security Awareness**, *Perry Carpenter*, 2019](https://learning.oreilly.com/library/view/transformational-security-awareness/9781119566342/)
-  * 
+  * The best Security Awareness book ever written. You'll need this because GRC teams often handle Security Awareness and this will be a great resource to kickstart your program 
+  * Goes through the tools you need to build an effective awareness strategy, Marketing, Communications, Behavioural Science, Culture Management, etc. If advertisers have been successful for the past half century, we probably have something to learn from them!
 
 * [**Foundations of Information Security**, *Jason Andress*, 2019](https://learning.oreilly.com/library/view/foundations-of-information/9781098122546/)
   * High-level overview of Information Security, touching on every topic relevant for a practitioner or a newcomer to the field
   * This baseline of knowledge is great to ensure you understand every control in your framework of choice
 
 * [**ISO 27001 controls – A guide to implementing and auditing**, *Bridget Kenyon*, 2019](https://learning.oreilly.com/library/view/iso-27001-controls/9781787781467/)
-  * 
+  * Bridget Kenyon has been involved in the development of the ISO 27001 standards for over a decade so you should probably listen
+  * This goes through every control from Annex A. and provides guidance and how to implement and audit them. Useful for building your ISMS, performing internal audits or kickstarting your career as a beloved ISO auditor!
 
 * [**IT Auditing Using Controls to Protect Information Assets**, *Mike Kegerreis, Mike Schiller and Chris Davis*, 2019](https://learning.oreilly.com/library/view/it-auditing-using/9781260453232/)
-  * 
+  * IT Auditing stems from the increase of regulations that followed major financial scandals of the early 2000s. This is dominated by the Big Four audit firms for obvious reasons even though major corporations have internal staff dedicated to IT auditing
+  * This book is an encyclopedia that goes through how to audit everything from Data Centers to Networking Devices and from Web Applications to Windows Servers
+  * Written by industry experts with decades of experience, this will also be useful to GRC folks trying to understand some of the controls to verify with their teams armed with the underlying technical knowledge and know-how necessary 
 
 * [**A Leader's Guide to Cybersecurity**, *Thomas J. Parenty and Jack J. Domet*, 2019](https://learning.oreilly.com/library/view/a-leaders-guide/9781633698000/)
   * 
@@ -149,6 +153,8 @@ Often hated (often for good reasons), audit and compliance folks have to be anno
 ## :iphone: Follow them on LinkedIn
 
 # :octocat: Repositories
+
+iso27001security
 
 # :microphone: Podcasts
 
