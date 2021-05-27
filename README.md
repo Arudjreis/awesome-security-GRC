@@ -172,13 +172,6 @@ If you're a jack-of-all-trades, love learning new things, being inquisitive but 
 
 Understanding the technical landscape.
 
-A Modern GRC Implementation Roadmap is Powered by Technology
-1. Start With Your GRC Framework
-2. Choose Your Technology
-3. Plan for the Adoption of Tech-Driven Solutions
-4. Day-to-Day Monitoring of Your GRC Strategy
-
-
 ## :lock_with_ink_pen: The Security
 
 Understanding the security measures
@@ -195,4 +188,3 @@ What drives strong GRC programs?
 * Effective lines of communication, especially for internal reporting  
 * Effective systems for routine monitoring, auditing and identification of compliance risks  
 * Procedures and system for prompt response to compliance issues  
-  
