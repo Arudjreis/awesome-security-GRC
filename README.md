@@ -73,6 +73,8 @@ Often hated (often for good reasons), audit and compliance folks have to be anno
 # :books: Books
 
 * [**Security Risk Management**, *Evan Wheeler*, 2011](https://learning.oreilly.com/library/view/security-risk-management/9781597496155/)
+  * Often part of reading lists at universities, this is your first stop in security risk management. This book is both comprehensive, timeless and accessible
+  * Great for referencing, it will help you assess and improve your internal risk management program. Focus on the **Action Plans** at the end of each chapter for some great takeaways 
 
 * [**Measuring and Managing Information Risk**, *Jack Freund & Jack Jones*, 2014](https://learning.oreilly.com/library/view/measuring-and-managing/9780124202313/)
   * The FAIR book itself. Self explanatory, if you want to know more about risk quantification this is a must-read, the story in the intro is meme material.
@@ -84,16 +86,23 @@ Often hated (often for good reasons), audit and compliance folks have to be anno
     * You **need *less* data** than you think
 
 * [**Transformational Security Awareness**, *Perry Carpenter*, 2019](https://learning.oreilly.com/library/view/transformational-security-awareness/9781119566342/)
+  * 
 
 * [**Foundations of Information Security**, *Jason Andress*, 2019](https://learning.oreilly.com/library/view/foundations-of-information/9781098122546/)
   * High-level overview of Information Security, touching on every topic relevant for a practitioner or a newcomer to the field
   * This baseline of knowledge is great to ensure you understand every control in your framework of choice
 
 * [**ISO 27001 controls – A guide to implementing and auditing**, *Bridget Kenyon*, 2019](https://learning.oreilly.com/library/view/iso-27001-controls/9781787781467/)
+  * 
 
 * [**IT Auditing Using Controls to Protect Information Assets**, *Mike Kegerreis, Mike Schiller and Chris Davis*, 2019](https://learning.oreilly.com/library/view/it-auditing-using/9781260453232/)
+  * 
 
 * [**A Leader's Guide to Cybersecurity**, *Thomas J. Parenty and Jack J. Domet*, 2019](https://learning.oreilly.com/library/view/a-leaders-guide/9781633698000/)
+  * 
+
+* [**Rational Cybersecurity for Business: The Security Leaders' Guide to Business Alignment**, *Dan Blum*, 2020](https://learning.oreilly.com/library/view/rational-cybersecurity-for/9781484259528/)
+  * 
 
 * [**The Cybersecurity Manager's Guide**, *Todd Barnum*, 2021](https://learning.oreilly.com/library/view/the-cybersecurity-managers/9781492076209/)
   * Probably the best information security book you'll ever read, Todd has been the CISO of GoPro for 6 years and worked in a variety of industries in the last three decades
