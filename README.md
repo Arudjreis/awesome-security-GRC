@@ -131,12 +131,14 @@ Security and Privacy Controls for Information Systems and Organizations - NIST S
 ## :iphone: Follow them on LinkedIn
 
 # :octocat: Repositories
-
-Comply is a SOC2-focused compliance automation tool https://github.com/strongdm/comply  
-Datica HIPAA Compliance Policies https://github.com/catalyzeio/policies/  
-GovReady-Q Compliance Server is an open source GRC platform for highly automated, user-friendly, self-service compliance assessments and documentation. https://github.com/GovReady/govready-q  
+  
+HIPAA Compliance Policies https://github.com/catalyzeio/policies/  
+Comply - SOC2-focused compliance automation tool https://github.com/strongdm/comply  
+GovReady-Q Compliance Server - GRC platform for highly automated compliance assessments and documentation. https://github.com/GovReady/govready-q  
   
 # :microphone: Podcasts
+
+SECURITY NOW - Hosted by Steve Gibson, Leo Laporte https://twit.tv/shows/security-now
 
 # :scroll: Certifications
 
@@ -170,6 +172,13 @@ If you're a jack-of-all-trades, love learning new things, being inquisitive but 
 
 Understanding the technical landscape.
 
+A Modern GRC Implementation Roadmap is Powered by Technology
+1. Start With Your GRC Framework
+2. Choose Your Technology
+3. Plan for the Adoption of Tech-Driven Solutions
+4. Day-to-Day Monitoring of Your GRC Strategy
+
+
 ## :lock_with_ink_pen: The Security
 
 Understanding the security measures
@@ -177,3 +186,12 @@ Understanding the security measures
 ## :briefcase: The Business
 
 Understanding the business language
+
+What drives strong GRC programs?
+*A Clearly defined business case and plan for implementing and supporting a GRC program
+*Written policies, procedures and standards of conduct
+*Assigned Compliance Officer, Compliance Committee and high level oversight
+*Effective training and education
+*Effective lines of communication, especially for internal reporting
+*Effective systems for routine monitoring, auditing and identification of compliance risks
+*Procedures and system for prompt response to compliance issues
