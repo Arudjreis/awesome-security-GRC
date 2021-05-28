@@ -28,7 +28,7 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
   - [:guardsman: Governance](#guardsman-governance)
   - [:chart_with_upwards_trend: Risk Management](#chart_with_upwards_trend-risk-management)
   - [:gun: Audit & Compliance](#gun-audit--compliance)
-  - [:octopus: Compliance Models](#Compliance-models)
+    - [:octopus: Frameworks and Regulations](#octopus-frameworks-and-regulations)
 - [:books: Books](#books-books)
 - [:tv: Talks/Videos](#tv-talksvideos)
 - [:telephone_receiver: People you should know](#telephone_receiver-people-you-should-know)
@@ -71,9 +71,9 @@ Once you know what your direction is and you know what to focus on, how do you k
 
 Often hated (often for good reasons), audit and compliance folks have to be annoying by nature. They assess how things you said you'd do are actually done in the real world. More often than not, things are either not done as they should or not done at all. Probably because no one has read the policies you took six months to write!
 
-## :octopus: Complaince Models
+### :octopus: Frameworks and Regulations
 
-Well...  There are a lot.  Your orginizaation likely is using some of these, but certainly not all.  Executive leadership drives policy at a high level based on business objectives.  Certain compliance is compuslary:  Sarbanes-Oxley Act (SOX) for US publically traded companies; General Data Protection Regulation (GDPR) applies to any organisation operating within the EU, as well as any organisations outside of the EU which offer goods or services to customers or businesses in the EU.
+Well...  There are a lot.  Your organization likely uses some of these, but certainly not all. Executive leadership drives policy at a high level based on business objectives. Certain regulations are mandatory. For instance Sarbanes-Oxley Act (SOX) for US publicly traded companies or General Data Protection Regulation (GDPR) applies to any organisation handling data from EU citizens. This is a non-exhaustive alphabet soup of frameworks and regulations.
 
 Sarbanes-Oxley Act - SOX - https://www.congress.gov/bill/107th-congress/house-bill/3763   
 General Data Protection Regulation - GDPR - https://gdpr-info.eu/  
