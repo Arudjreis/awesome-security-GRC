@@ -28,6 +28,7 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
   - [:guardsman: Governance](#guardsman-governance)
   - [:chart_with_upwards_trend: Risk Management](#chart_with_upwards_trend-risk-management)
   - [:gun: Audit & Compliance](#gun-audit--compliance)
+  - [:octopus: Compliance Models](#Compliance-models)
 - [:books: Books](#books-books)
 - [:tv: Talks/Videos](#tv-talksvideos)
 - [:telephone_receiver: People you should know](#telephone_receiver-people-you-should-know)
@@ -69,6 +70,17 @@ Once you know what your direction is and you know what to focus on, how do you k
 * Compliance is how close are you to the baseline either set by yourself or by a 3rd party body (ISO, AICPA, insert acronyms)
 
 Often hated (often for good reasons), audit and compliance folks have to be annoying by nature. They assess how things you said you'd do are actually done in the real world. More often than not, things are either not done as they should or not done at all. Probably because no one has read the policies you took six months to write!
+
+## :octopus: Complaince Models
+
+Well...  There are a lot.  Your orginizaation likely is using some of these, but certainly not all.  Executive leadership drives policy at a high level based on business objectives.  Certain compliance is compuslary:  Sarbanes-Oxley Act (SOX) for US publically traded companies; General Data Protection Regulation (GDPR) applies to any organisation operating within the EU, as well as any organisations outside of the EU which offer goods or services to customers or businesses in the EU.
+
+Sarbanes-Oxley Act - SOX - https://www.congress.gov/bill/107th-congress/house-bill/3763   
+General Data Protection Regulation - GDPR - https://gdpr-info.eu/  
+Federal Information Security Modernization Act - FISMA - https://www.cisa.gov/federal-information-security-modernization-act  
+Payment Card Industry Data Security Standard - PCI-DSS - https://www.congress.gov/bill/107th-congress/house-bill/3763  
+Health Insurance Portability and Accountability Act - HIPAA - https://www.hhs.gov/hipaa/index.html  
+Security and Privacy Controls for Information Systems and Organizations - NIST SP 800-53 - https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final  
 
 # :books: Books
 
@@ -154,12 +166,26 @@ Often hated (often for good reasons), audit and compliance folks have to be anno
 
 # :octocat: Repositories
 
-iso27001security
-
 # :microphone: Podcasts
+
+SECURITY NOW - Hosted by Steve Gibson, Leo Laporte https://twit.tv/shows/security-now
 
 # :scroll: Certifications
 
+Consider that these are not listed in a particular "order of importance."  You should allign your current skills and long term goals when determining a path to certification.  
+  
+CRISC - ISACA - Certified in Risk and Information Systems Control (https://www.isaca.org/credentialing/crisc)  
+  
+GRCP - OCEG - GRC Professional Certification (https://www.oceg.org/certifications/grc-professional-certification/)  
+  
+CRMA - theiia - Certification in Risk Management Assurance (https://na.theiia.org/certification/crma-certification/pages/crma-certification.aspx)  
+  
+PMI-RMP - PMI - PMI Risk Management Professional (https://www.pmi.org/certifications/risk-management-rmp)  
+  
+CISM - ISACA - Certified Information Security Manager (https://www.isaca.org/credentialing/cism)  
+  
+CISSP - isc2 - Certified Information Systems Security Professional (https://www.isc2.org/Certifications/CISSP)  
+  
 # :triangular_ruler: The Knowledge Trifecta
 
 **We are offered jobs but we have a career.** We're the only one accountable for our career path and the best way to make the best of this is to continuously learn.
@@ -183,3 +209,12 @@ Understanding the security measures
 ## :briefcase: The Business
 
 Understanding the business language
+
+What drives strong GRC programs?  
+* A Clearly defined business case and plan for implementing and supporting a GRC program  
+* Written policies, procedures and standards of conduct  
+* Assigned Compliance Officer, Compliance Committee and high level oversight  
+* Effective training and education  
+* Effective lines of communication, especially for internal reporting  
+* Effective systems for routine monitoring, auditing and identification of compliance risks  
+* Procedures and system for prompt response to compliance issues  
