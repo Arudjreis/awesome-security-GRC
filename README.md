@@ -168,23 +168,14 @@ Security and Privacy Controls for Information Systems and Organizations - NIST S
 
 # :microphone: Podcasts
 
+* [Security & Compliance Weekly](https://securityweekly.com/category-shows/security-and-compliance-weekly/) - Hosted by Jeff Man, Scott Lyons and Josh Marpet
+  * The name is pretty telling. PCI is often discussed in-depth, useful if you're responsible for your company's PCI-DSS program! 
+
 SECURITY NOW - Hosted by Steve Gibson, Leo Laporte https://twit.tv/shows/security-now
 
 # :scroll: Certifications
 
-Consider that these are not listed in a particular "order of importance."  You should allign your current skills and long term goals when determining a path to certification.  
-  
-CRISC - ISACA - Certified in Risk and Information Systems Control (https://www.isaca.org/credentialing/crisc)  
-  
-GRCP - OCEG - GRC Professional Certification (https://www.oceg.org/certifications/grc-professional-certification/)  
-  
-CRMA - theiia - Certification in Risk Management Assurance (https://na.theiia.org/certification/crma-certification/pages/crma-certification.aspx)  
-  
-PMI-RMP - PMI - PMI Risk Management Professional (https://www.pmi.org/certifications/risk-management-rmp)  
-  
-CISM - ISACA - Certified Information Security Manager (https://www.isaca.org/credentialing/cism)  
-  
-CISSP - isc2 - Certified Information Systems Security Professional (https://www.isc2.org/Certifications/CISSP)  
+Probably [the only resource you'll need](https://pauljerimy.com/security-certification-roadmap/) for certifications. Paul Jerimy has done an incredible job with input from lots of practitioners and experts in InfoSec. If one certification had to be mentioned, it would be the CISSP for obvious reasons (:unlock:).
   
 # :triangular_ruler: The Knowledge Trifecta
 
