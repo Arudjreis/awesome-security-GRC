@@ -73,14 +73,14 @@ Often hated (often for good reasons), audit and compliance folks have to be anno
 
 ### :octopus: Frameworks and Regulations
 
-Well...  There are a lot.  Your organization likely uses some of these, but certainly not all. Executive leadership drives policy at a high level based on business objectives. Certain regulations are mandatory. For instance Sarbanes-Oxley Act (SOX) for US publicly traded companies or General Data Protection Regulation (GDPR) applies to any organisation handling data from EU citizens. This is a non-exhaustive alphabet soup of frameworks and regulations.
+Well...  There are a lot.  Your organization likely uses some of these, but certainly not all. Executive leadership drives policy at a high level based on business objectives. Certain regulations are mandatory. For instance Sarbanes-Oxley Act (SOX) for US publicly traded companies or General Data Protection Regulation (GDPR) applies to any organisation handling data from EU citizens. This is a non-exhaustive alphabet soup of frameworks and regulations:
 
-Sarbanes-Oxley Act - SOX - https://www.congress.gov/bill/107th-congress/house-bill/3763   
-General Data Protection Regulation - GDPR - https://gdpr-info.eu/  
-Federal Information Security Modernization Act - FISMA - https://www.cisa.gov/federal-information-security-modernization-act  
-Payment Card Industry Data Security Standard - PCI-DSS - https://www.congress.gov/bill/107th-congress/house-bill/3763  
-Health Insurance Portability and Accountability Act - HIPAA - https://www.hhs.gov/hipaa/index.html  
-Security and Privacy Controls for Information Systems and Organizations - NIST SP 800-53 - https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final  
+* Sarbanes-Oxley Act - [SOX] https://www.congress.gov/bill/107th-congress/house-bill/3763   
+* General Data Protection Regulation - [GDPR] - https://gdpr-info.eu/  
+* Federal Information Security Modernization Act - [FISMA] - https://www.cisa.gov/federal-information-security-modernization-act  
+* Payment Card Industry Data Security Standard - [PCI-DSS] - https://www.congress.gov/bill/107th-congress/house-bill/3763  
+* Health Insurance Portability and Accountability Act - [HIPAA] - https://www.hhs.gov/hipaa/index.html  
+* Security and Privacy Controls for Information Systems and Organizations - NIST SP 800-53 - https://csrc.nist.gov/publications/detail/sp/* 800-53/rev-5/final  
 
 # :books: Books
 
@@ -115,10 +115,11 @@ Security and Privacy Controls for Information Systems and Organizations - NIST S
   * Written by industry experts with decades of experience, this will also be useful to GRC folks trying to understand some of the controls to verify with their teams armed with the underlying technical knowledge and know-how necessary 
 
 * [**A Leader's Guide to Cybersecurity**, *Thomas J. Parenty and Jack J. Domet*, 2019](https://learning.oreilly.com/library/view/a-leaders-guide/9781633698000/)
-  * 
+  * Great opportunity to understand security when it's written for the business. Down to earth and debunks some of the tropes we often repeat such as Security as a "People Problem"
+  * Follows this structure: The Problems => The Principles => The Responsibilities
 
 * [**Rational Cybersecurity for Business: The Security Leaders' Guide to Business Alignment**, *Dan Blum*, 2020](https://learning.oreilly.com/library/view/rational-cybersecurity-for/9781484259528/)
-  * 
+  * Another book about Security, Business and how to align the two. This book is an overview of the most useful controls and how to improve your security posture seamlessly and without impeding productivity
 
 * [**The Cybersecurity Manager's Guide**, *Todd Barnum*, 2021](https://learning.oreilly.com/library/view/the-cybersecurity-managers/9781492076209/)
   * Probably the best information security book you'll ever read, Todd has been the CISO of GoPro for 6 years and worked in a variety of industries in the last three decades
