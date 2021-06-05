@@ -28,7 +28,7 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
   - [:guardsman: Governance](#guardsman-governance)
   - [:chart_with_upwards_trend: Risk Management](#chart_with_upwards_trend-risk-management)
   - [:gun: Audit & Compliance](#gun-audit--compliance)
-  - [:octopus: Compliance Models](#Compliance-models)
+    - [:octopus: Frameworks and Regulations](#octopus-frameworks-and-regulations)
 - [:books: Books](#books-books)
 - [:tv: Talks/Videos](#tv-talksvideos)
 - [:telephone_receiver: People you should know](#telephone_receiver-people-you-should-know)
@@ -71,18 +71,22 @@ Once you know what your direction is and you know what to focus on, how do you k
 
 Often hated (often for good reasons), audit and compliance folks have to be annoying by nature. They assess how things you said you'd do are actually done in the real world. More often than not, things are either not done as they should or not done at all. Probably because no one has read the policies you took six months to write!
 
-## :octopus: Complaince Models
+### :octopus: Frameworks and Regulations
 
-Well...  There are a lot.  Your orginizaation likely is using some of these, but certainly not all.  Executive leadership drives policy at a high level based on business objectives.  Certain compliance is compuslary:  Sarbanes-Oxley Act (SOX) for US publically traded companies; General Data Protection Regulation (GDPR) applies to any organisation operating within the EU, as well as any organisations outside of the EU which offer goods or services to customers or businesses in the EU.
+Well...  There are a lot.  Your organization likely uses some of these, but certainly not all. Executive leadership drives policy at a high level based on business objectives. Certain regulations are mandatory. For instance Sarbanes-Oxley Act (SOX) for US publicly traded companies or General Data Protection Regulation (GDPR) applies to any organisation handling data from EU citizens. This is a non-exhaustive alphabet soup of frameworks and regulations:
 
-Sarbanes-Oxley Act - SOX - https://www.congress.gov/bill/107th-congress/house-bill/3763   
-General Data Protection Regulation - GDPR - https://gdpr-info.eu/  
-Federal Information Security Modernization Act - FISMA - https://www.cisa.gov/federal-information-security-modernization-act  
-Payment Card Industry Data Security Standard - PCI-DSS - https://www.congress.gov/bill/107th-congress/house-bill/3763  
-Health Insurance Portability and Accountability Act - HIPAA - https://www.hhs.gov/hipaa/index.html  
-Security and Privacy Controls for Information Systems and Organizations - NIST SP 800-53 - https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final  
+* Sarbanes-Oxley Act - [SOX] https://www.congress.gov/bill/107th-congress/house-bill/3763   
+* General Data Protection Regulation - [GDPR] - https://gdpr-info.eu/  
+* Federal Information Security Modernization Act - [FISMA] - https://www.cisa.gov/federal-information-security-modernization-act  
+* Payment Card Industry Data Security Standard - [PCI-DSS] - https://www.congress.gov/bill/107th-congress/house-bill/3763  
+* Health Insurance Portability and Accountability Act - [HIPAA] - https://www.hhs.gov/hipaa/index.html  
+* Security and Privacy Controls for Information Systems and Organizations - NIST SP 800-53 - https://csrc.nist.gov/publications/detail/sp/* 800-53/rev-5/final  
 
 # :books: Books
+
+* [**Security Risk Management**, *Evan Wheeler*, 2011](https://learning.oreilly.com/library/view/security-risk-management/9781597496155/)
+  * Often part of reading lists at universities, this is your first stop in security risk management. This book is both comprehensive, timeless and accessible
+  * Great for referencing, it will help you assess and improve your internal risk management program. Focus on the **Action Plans** at the end of each chapter for some great takeaways 
 
 * [**Measuring and Managing Information Risk**, *Jack Freund & Jack Jones*, 2014](https://learning.oreilly.com/library/view/measuring-and-managing/9780124202313/)
   * The FAIR book itself. Self explanatory, if you want to know more about risk quantification this is a must-read, the story in the intro is meme material.
@@ -92,6 +96,30 @@ Security and Privacy Controls for Information Systems and Organizations - NIST S
     * Your problem is not **as unique** as you think
     * You **have *more* data** than you think
     * You **need *less* data** than you think
+
+* [**Transformational Security Awareness**, *Perry Carpenter*, 2019](https://learning.oreilly.com/library/view/transformational-security-awareness/9781119566342/)
+  * The best Security Awareness book ever written. You'll need this because GRC teams often handle Security Awareness and this will be a great resource to kickstart your program 
+  * Goes through the tools you need to build an effective awareness strategy, Marketing, Communications, Behavioural Science, Culture Management, etc. If advertisers have been successful for the past half century, we probably have something to learn from them!
+
+* [**Foundations of Information Security**, *Jason Andress*, 2019](https://learning.oreilly.com/library/view/foundations-of-information/9781098122546/)
+  * High-level overview of Information Security, touching on every topic relevant for a practitioner or a newcomer to the field
+  * This baseline of knowledge is great to ensure you understand every control in your framework of choice
+
+* [**ISO 27001 controls – A guide to implementing and auditing**, *Bridget Kenyon*, 2019](https://learning.oreilly.com/library/view/iso-27001-controls/9781787781467/)
+  * Bridget Kenyon has been involved in the development of the ISO 27001 standards for over a decade so you should probably listen
+  * This goes through every control from Annex A. and provides guidance and how to implement and audit them. Useful for building your ISMS, performing internal audits or kickstarting your career as a beloved ISO auditor!
+
+* [**IT Auditing Using Controls to Protect Information Assets**, *Mike Kegerreis, Mike Schiller and Chris Davis*, 2019](https://learning.oreilly.com/library/view/it-auditing-using/9781260453232/)
+  * IT Auditing stems from the increase of regulations that followed major financial scandals of the early 2000s. This is dominated by the Big Four audit firms for obvious reasons even though major corporations have internal staff dedicated to IT auditing
+  * This book is an encyclopedia that goes through how to audit everything from Data Centers to Networking Devices and from Web Applications to Windows Servers
+  * Written by industry experts with decades of experience, this will also be useful to GRC folks trying to understand some of the controls to verify with their teams armed with the underlying technical knowledge and know-how necessary 
+
+* [**A Leader's Guide to Cybersecurity**, *Thomas J. Parenty and Jack J. Domet*, 2019](https://learning.oreilly.com/library/view/a-leaders-guide/9781633698000/)
+  * Great opportunity to understand security when it's written for the business. Down to earth and debunks some of the tropes we often repeat such as Security as a "People Problem"
+  * Follows this structure: The Problems => The Principles => The Responsibilities
+
+* [**Rational Cybersecurity for Business: The Security Leaders' Guide to Business Alignment**, *Dan Blum*, 2020](https://learning.oreilly.com/library/view/rational-cybersecurity-for/9781484259528/)
+  * Another book about Security, Business and how to align the two. This book is an overview of the most useful controls and how to improve your security posture seamlessly and without impeding productivity
 
 * [**The Cybersecurity Manager's Guide**, *Todd Barnum*, 2021](https://learning.oreilly.com/library/view/the-cybersecurity-managers/9781492076209/)
   * Probably the best information security book you'll ever read, Todd has been the CISO of GoPro for 6 years and worked in a variety of industries in the last three decades
@@ -128,33 +156,27 @@ Security and Privacy Controls for Information Systems and Organizations - NIST S
   * His take on most subjects are worth the read, he has a great analysis of the [*Compliance vs. Security*](https://www.philvenables.com/post/compliance-vs-security) debate
   * Phil has over 20 years of experience in security leadership at Goldman Sachs and now the CISO of Google Cloud
 
+* :rotating_light: Everything written by ***Adobe Tech GRC Team***.
+  * They've been at the forefront of innovation in the field, even building their own [Common Control Framework](https://blog.adobe.com/en/publish/2020/11/19/common-controls-framework-ccf-by-adobe-v4-0-now-available.html#gs.1v9q24). They produced numerous posts I suggest you have a look at:
+  * Managing everyone's input, role and expectations into the overall security compliance effort can often be cumbersome. Adobe Tech GRC Team [introduced scalability by creating **four major roles**](https://medium.com/adobetech/scaling-security-controls-across-the-enterprise-5870e14f4865) to map to the CCF standard and help achieve GRC in a [**multi-cloud environment**](https://medium.com/adobetech/enabling-compliance-and-governance-at-scale-in-a-multi-cloud-environment-82847ba5d341)
+  * Automating the Common Controls Framework, [Part I](https://medium.com/adobetech/automating-the-common-controls-framework-ccf-part-i-83271bdb0f00) and [Part II](https://medium.com/adobetech/automating-the-common-controls-framework-part-ii-d010bea9bcc4). Adobe as a major SaaS provider has to have a Tech GRC program that scales accordingly and these two articles introduce the **4-layer model** used to automate security compliance
+  * A major feature of their Tech GRC program are the [**Strategic Technology Initiatives**](https://medium.com/adobetech/how-our-strategic-technology-initiatives-program-helps-automate-and-scale-key-security-initiatives-bd666440ed4b). They are the equivalent of the DevOps principles but applied to technology GRC efforts. A must-read
+  * If articles aren't your thing, check out [this podcast](https://techspective.net/2021/03/23/prabath-karanth-shares-adobes-creative-approach-to-managing-grc/) with former leader from Adobe Tech GRC Prabhath Karanth. Great overview of the program and the STIs
+
 ## :iphone: Follow them on LinkedIn
 
 # :octocat: Repositories
-  
-HIPAA Compliance Policies https://github.com/catalyzeio/policies/  
-Comply - SOC2-focused compliance automation tool https://github.com/strongdm/comply  
-GovReady-Q Compliance Server - GRC platform for highly automated compliance assessments and documentation. https://github.com/GovReady/govready-q  
-  
+
 # :microphone: Podcasts
+
+* [Security & Compliance Weekly](https://securityweekly.com/category-shows/security-and-compliance-weekly/) - Hosted by Jeff Man, Scott Lyons and Josh Marpet
+  * The name is pretty telling. PCI is often discussed in-depth, useful if you're responsible for your company's PCI-DSS program! 
 
 SECURITY NOW - Hosted by Steve Gibson, Leo Laporte https://twit.tv/shows/security-now
 
 # :scroll: Certifications
 
-Consider that these are not listed in a particular "order of importance."  You should allign your current skills and long term goals when determining a path to certification.  
-  
-CRISC - ISACA - Certified in Risk and Information Systems Control (https://www.isaca.org/credentialing/crisc)  
-  
-GRCP - OCEG - GRC Professional Certification (https://www.oceg.org/certifications/grc-professional-certification/)  
-  
-CRMA - theiia - Certification in Risk Management Assurance (https://na.theiia.org/certification/crma-certification/pages/crma-certification.aspx)  
-  
-PMI-RMP - PMI - PMI Risk Management Professional (https://www.pmi.org/certifications/risk-management-rmp)  
-  
-CISM - ISACA - Certified Information Security Manager (https://www.isaca.org/credentialing/cism)  
-  
-CISSP - isc2 - Certified Information Systems Security Professional (https://www.isc2.org/Certifications/CISSP)  
+Probably [the only resource you'll need](https://pauljerimy.com/security-certification-roadmap/) for certifications. Paul Jerimy has done an incredible job with input from lots of practitioners and experts in InfoSec. If one certification had to be mentioned, it would be the CISSP for obvious reasons (:unlock:).
   
 # :triangular_ruler: The Knowledge Trifecta
 
@@ -172,13 +194,6 @@ If you're a jack-of-all-trades, love learning new things, being inquisitive but 
 
 Understanding the technical landscape.
 
-A Modern GRC Implementation Roadmap is Powered by Technology
-1. Start With Your GRC Framework
-2. Choose Your Technology
-3. Plan for the Adoption of Tech-Driven Solutions
-4. Day-to-Day Monitoring of Your GRC Strategy
-
-
 ## :lock_with_ink_pen: The Security
 
 Understanding the security measures
@@ -195,4 +210,3 @@ What drives strong GRC programs?
 * Effective lines of communication, especially for internal reporting  
 * Effective systems for routine monitoring, auditing and identification of compliance risks  
 * Procedures and system for prompt response to compliance issues  
-  
