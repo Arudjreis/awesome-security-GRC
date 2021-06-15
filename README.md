@@ -77,9 +77,9 @@ Well...  There are a lot.  Your organization likely uses some of these, but cert
 
 * :bank: Sarbanes-Oxley Act - [SOX](https://www.congress.gov/bill/107th-congress/house-bill/3763)   
 * :euro: General Data Protection Regulation - [GDPR](https://gdpr-info.eu/)  
+* :credit_card: Payment Card Industry Data Security Standard - [PCI-DSS](https://www.congress.gov/bill/107th-congress/house-bill/3763)  
 * :statue_of_liberty: Federal Information Security Modernization Act - [FISMA](https://www.cisa.gov/federal-information-security-modernization-act)  
 * :hospital: Health Insurance Portability and Accountability Act - [HIPAA](https://www.hhs.gov/hipaa/index.html)  
-* :credit_card: Payment Card Industry Data Security Standard - [PCI-DSS](https://www.congress.gov/bill/107th-congress/house-bill/3763)  
 * :oncoming_police_car: Security and Privacy Controls for Information Systems and Organizations - [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
 * :white_flag: International Organisation for Standardization's Information Security Management Standard - [ISO 27001](https://www.iso.org/isoiec-27001-information-security.html)
 
