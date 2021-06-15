@@ -80,7 +80,7 @@ Well...  There are a lot.  Your organization likely uses some of these, but cert
 * Federal Information Security Modernization Act - [FISMA](https://www.cisa.gov/federal-information-security-modernization-act)  
 * Payment Card Industry Data Security Standard - [PCI-DSS](https://www.congress.gov/bill/107th-congress/house-bill/3763)  
 * Health Insurance Portability and Accountability Act - [HIPAA](https://www.hhs.gov/hipaa/index.html)  
-* Security and Privacy Controls for Information Systems and Organizations - [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/* 800-53/rev-5/final)  
+* Security and Privacy Controls for Information Systems and Organizations - [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
 
 # :books: Books
 
