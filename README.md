@@ -29,6 +29,7 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
   - [:chart_with_upwards_trend: Risk Management](#chart_with_upwards_trend-risk-management)
   - [:gun: Audit & Compliance](#gun-audit--compliance)
     - [:octopus: Frameworks and Regulations](#octopus-frameworks-and-regulations)
+  - [:ballot_box_with_check: What drives strong GRC programs?](#ballot_box_with_check-what-drives-strong-grc-programs)
 - [:books: Books](#books-books)
 - [:tv: Talks/Videos](#tv-talksvideos)
 - [:telephone_receiver: People you should know](#telephone_receiver-people-you-should-know)
@@ -84,6 +85,15 @@ Well...  There are a lot.  Your organization likely uses some of these, but cert
 * :white_flag: International Organisation for Standardization's Information Security Management Standard - [ISO 27001](https://www.iso.org/isoiec-27001-information-security.html)
 
 Added to that, each country would have specific cybersecurity regulations and standards companies would have to comply with. They could be specific to certain industries (critical infrastructures or financial services) or applicable to every company. As our planet is made of a lot of countries, we won't list the specifics here and as is often the case, US standards are picked up in most of the world anyway!
+
+## :ballot_box_with_check: What drives strong GRC programs?  
+* A Clearly defined business case and plan for implementing and supporting a GRC program  
+* Written policies, procedures and standards of conduct  
+* Assigned Compliance Officer, Compliance Committee and high level oversight  
+* Effective training and education  
+* Effective lines of communication, especially for internal reporting  
+* Effective systems for routine monitoring, auditing and identification of compliance risks  
+* Procedures and system for prompt response to compliance issues  
 
 # :books: Books
 
@@ -204,12 +214,3 @@ Understanding the security measures
 ## :briefcase: The Business
 
 Understanding the business language
-
-What drives strong GRC programs?  
-* A Clearly defined business case and plan for implementing and supporting a GRC program  
-* Written policies, procedures and standards of conduct  
-* Assigned Compliance Officer, Compliance Committee and high level oversight  
-* Effective training and education  
-* Effective lines of communication, especially for internal reporting  
-* Effective systems for routine monitoring, auditing and identification of compliance risks  
-* Procedures and system for prompt response to compliance issues  
