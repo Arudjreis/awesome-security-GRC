@@ -75,12 +75,12 @@ Often hated (often for good reasons), audit and compliance folks have to be anno
 
 Well...  There are a lot.  Your organization likely uses some of these, but certainly not all. Executive leadership drives policy at a high level based on business objectives. Certain regulations are mandatory. For instance Sarbanes-Oxley Act (SOX) for US publicly traded companies or General Data Protection Regulation (GDPR) applies to any organisation handling data from EU citizens. This is a non-exhaustive alphabet soup of frameworks and regulations:
 
-* Sarbanes-Oxley Act - [SOX] https://www.congress.gov/bill/107th-congress/house-bill/3763   
-* General Data Protection Regulation - [GDPR] - https://gdpr-info.eu/  
-* Federal Information Security Modernization Act - [FISMA] - https://www.cisa.gov/federal-information-security-modernization-act  
-* Payment Card Industry Data Security Standard - [PCI-DSS] - https://www.congress.gov/bill/107th-congress/house-bill/3763  
-* Health Insurance Portability and Accountability Act - [HIPAA] - https://www.hhs.gov/hipaa/index.html  
-* Security and Privacy Controls for Information Systems and Organizations - NIST SP 800-53 - https://csrc.nist.gov/publications/detail/sp/* 800-53/rev-5/final  
+* Sarbanes-Oxley Act - [SOX](https://www.congress.gov/bill/107th-congress/house-bill/3763)   
+* General Data Protection Regulation - [GDPR](https://gdpr-info.eu/)  
+* Federal Information Security Modernization Act - [FISMA](https://www.cisa.gov/federal-information-security-modernization-act)  
+* Payment Card Industry Data Security Standard - [PCI-DSS](https://www.congress.gov/bill/107th-congress/house-bill/3763)  
+* Health Insurance Portability and Accountability Act - [HIPAA](https://www.hhs.gov/hipaa/index.html)  
+* Security and Privacy Controls for Information Systems and Organizations - [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/* 800-53/rev-5/final)  
 
 # :books: Books
 
