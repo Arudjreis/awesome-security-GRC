@@ -174,10 +174,11 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 # :microphone: Podcasts
 
-* [**Security & Compliance Weekly**](https://securityweekly.com/category-shows/security-and-compliance-weekly/) - Hosted by Jeff Man, Scott Lyons and Josh Marpet
+* [**Security & Compliance Weekly**](https://podcasts.google.com/feed/aHR0cHM6Ly9zY3dhdWRpby5saWJzeW4uY29tL3Jzcw) - Hosted by Jeff Man, Scott Lyons and Josh Marpet
   * The name is pretty telling. PCI is often discussed in-depth, useful if you're responsible for your company's PCI-DSS program! 
 
-* [**]
+* [**Risk, Governance and Cyber Compliance](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83MjMzOTkucnNz?sa=X&ved=0CAkQlvsGahcKEwjonfmhqKnxAhUAAAAAHQAAAAAQAg) - Hosted by Dr. Bill Souza
+  * The last episode dates back to late 2020 but the content is top-notch and his views on risk management are worth a listen
 # :scroll: Certifications
 
 Probably [the only resource you'll need](https://pauljerimy.com/security-certification-roadmap/) for certifications. Paul Jerimy has done an incredible job with input from lots of practitioners and experts in InfoSec. If one certification had to be mentioned, it would be the CISSP for obvious reasons (:heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign:).
