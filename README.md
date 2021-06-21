@@ -27,6 +27,8 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 - [:mortar_board: What is Security GRC?](#mortar_board-what-is-security-grc)
   - [:guardsman: Governance](#guardsman-governance)
   - [:chart_with_upwards_trend: Risk Management](#chart_with_upwards_trend-risk-management)
+    - [Risk Management Methodologies](#risk-management-methodologies)
+      - [Rapid Risk Assessment](#rapid-risk-assessment)
   - [:gun: Audit & Compliance](#gun-audit--compliance)
     - [:octopus: Frameworks and Regulations](#octopus-frameworks-and-regulations)
 - [:books: Books](#books-books)
@@ -66,6 +68,10 @@ Risk is traditionally explained as a factor of a threat and a vulnerability. Pre
 * A risk is threat * vulnerability... A risk is the impact if the threat exploits the vulnerability (R = T*V)
 
 A robust risk management program would also include some quantitative features to make sure senior management and business executives understands the financial costs associated with some of the identified risks. Nothing has to be too precise or too detailed, having numbers in the right ballpark and being able to evidence why you chose them is well more than enough.
+
+### Risk Management Methodologies
+
+#### Rapid Risk Assessment
 
 ## :gun: Audit & Compliance
 
