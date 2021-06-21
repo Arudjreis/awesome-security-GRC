@@ -207,6 +207,10 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 * [**Should Risk Lead GRC?**, *Defense in Depth Podcast*](https://podcasts.google.com/feed/aHR0cHM6Ly9kZWZlbnNlaW5kZXB0aC5saWJzeW4uY29tL3Jzcw/episode/MjMyYWUwN2EtYzcxNi00M2I5LWIyMTgtOGM1YjU0M2FjNjZm?sa=X&ved=0CAUQkfYCahcKEwiAg7brqqnxAhUAAAAAHQAAAAAQLg) - Featuring David Spark, Allan Alford and special guest Marnie Wilking (Head of Security and Technology Risk Management, Wayfair)
 
+* [**IT Governance**, *CISO Tradecraft Podcast*](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2Npc290cmFkZWNyYWZ0L2ZlZWQueG1s/episode/Y2lzb3RyYWRlY3JhZnQucG9kYmVhbi5jb20vZGRkYTUyNDYtNGRjYi0zMmM5LWJmZGQtMDc0NWVmODE4NWRj?sa=X&ved=0CAUQkfYCahcKEwjItYv_qqnxAhUAAAAAHQAAAAAQIQ) - Featuring G Mark Hardy and Ross Young
+
+* [**Cyber Frameworks**, *CISO Tradecraft Podcast*](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2Npc290cmFkZWNyYWZ0L2ZlZWQueG1s/episode/Y2lzb3RyYWRlY3JhZnQucG9kYmVhbi5jb20vZWEwZjlkNjEtZjc5Zi0zOWQ2LWE0ZDQtMWZhMzg3ODA5ZWU4?sa=X&ved=0CAUQkfYCahcKEwjItYv_qqnxAhUAAAAAHQAAAAAQIQ) - Featuring G Mark Hardy and Ross Young
+
 # :scroll: Certifications
 
 Probably [the only resource you'll need](https://pauljerimy.com/security-certification-roadmap/) for certifications. Paul Jerimy has done an incredible job with input from lots of practitioners and experts in InfoSec. If one certification had to be mentioned, it would be the CISSP for obvious reasons (:heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign:).
