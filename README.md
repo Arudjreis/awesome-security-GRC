@@ -36,6 +36,8 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
   - [:iphone: Follow them on LinkedIn](#iphone-follow-them-on-linkedin)
 - [:octocat: Repositories](#octocat-repositories)
 - [:microphone: Podcasts](#microphone-podcasts)
+  - [Security GRC Podcasts](#security-grc-podcasts)
+  - [Security GRC Episodes](#security-grc-episodes)
 - [:scroll: Certifications](#scroll-certifications)
 - [:triangular_ruler: The Knowledge Trifecta](#triangular_ruler-the-knowledge-trifecta)
   - [:floppy_disk: The Technical](#floppy_disk-the-technical)
@@ -174,11 +176,20 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 # :microphone: Podcasts
 
+## Security GRC Podcasts
+
 * [**Security & Compliance Weekly**](https://podcasts.google.com/feed/aHR0cHM6Ly9zY3dhdWRpby5saWJzeW4uY29tL3Jzcw) - Hosted by Jeff Man, Scott Lyons and Josh Marpet
   * The name is pretty telling. PCI is often discussed in-depth, useful if you're responsible for your company's PCI-DSS program! 
 
 * [**Risk, Governance and Cyber Compliance](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83MjMzOTkucnNz?sa=X&ved=0CAkQlvsGahcKEwjonfmhqKnxAhUAAAAAHQAAAAAQAg) - Hosted by Dr. Bill Souza
   * The last episode dates back to late 2020 but the content is top-notch and his views on risk management are worth a listen
+
+## Security GRC Episodes
+
+
+
+
+
 # :scroll: Certifications
 
 Probably [the only resource you'll need](https://pauljerimy.com/security-certification-roadmap/) for certifications. Paul Jerimy has done an incredible job with input from lots of practitioners and experts in InfoSec. If one certification had to be mentioned, it would be the CISSP for obvious reasons (:heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign:).
