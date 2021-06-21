@@ -178,17 +178,19 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 ## Security GRC Podcasts
 
-* [**Security & Compliance Weekly**](https://podcasts.google.com/feed/aHR0cHM6Ly9zY3dhdWRpby5saWJzeW4uY29tL3Jzcw) - Hosted by Jeff Man, Scott Lyons and Josh Marpet
+* [*Security & Compliance Weekly*](https://podcasts.google.com/feed/aHR0cHM6Ly9zY3dhdWRpby5saWJzeW4uY29tL3Jzcw) - Hosted by Jeff Man, Scott Lyons and Josh Marpet
   * The name is pretty telling. PCI is often discussed in-depth, useful if you're responsible for your company's PCI-DSS program! 
 
-* [**Risk, Governance and Cyber Compliance](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83MjMzOTkucnNz?sa=X&ved=0CAkQlvsGahcKEwjonfmhqKnxAhUAAAAAHQAAAAAQAg) - Hosted by Dr. Bill Souza
+* [*Risk, Governance and Cyber Compliance*](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83MjMzOTkucnNz?sa=X&ved=0CAkQlvsGahcKEwjonfmhqKnxAhUAAAAAHQAAAAAQAg) - Hosted by Dr. Bill Souza
   * The last episode dates back to late 2020 but the content is top-notch and his views on risk management are worth a listen
 
 ## Security GRC Episodes
 
+* [**Getting Over Our "Security ≠ Compliance" Obsession**, *CISO-Security Vendor Relationship Podcast*](https://podcasts.google.com/feed/aHR0cHM6Ly9kYXZpZHNwYXJrLmxpYnN5bi5jb20vY2lzb3ZlbmRvcg/episode/ZThiNjFmNGU0ZTVhNDAzM2E4YTQxZDkzYjE0M2E3NjA?sa=X&ved=0CAIQuIEEahcKEwiAg7brqqnxAhUAAAAAHQAAAAAQIQ) - Featuring David Spark, Mike Johnson and special guest Chris Hymes (Head of Infosec, Riot Games)
 
+* [**Is Governance the Most Important Part of GRC?**, *Defense in Depth Podcast*](https://podcasts.google.com/feed/aHR0cHM6Ly9kZWZlbnNlaW5kZXB0aC5saWJzeW4uY29tL3Jzcw/episode/NTI2MTAwM2MtZWIyZS00ZmIyLWJjY2UtNzk3MWVmNzhjOTE5?sa=X&ved=0CAUQkfYCahcKEwiAg7brqqnxAhUAAAAAHQAAAAAQLg) - Featuring David Spark, Allan Alford and special guest Mustapha Kebbeh (CISO, Brinks)
 
-
+* [**Should Risk Lead GRC?**, *Defense in Depth Podcast*](https://podcasts.google.com/feed/aHR0cHM6Ly9kZWZlbnNlaW5kZXB0aC5saWJzeW4uY29tL3Jzcw/episode/MjMyYWUwN2EtYzcxNi00M2I5LWIyMTgtOGM1YjU0M2FjNjZm?sa=X&ved=0CAUQkfYCahcKEwiAg7brqqnxAhUAAAAAHQAAAAAQLg) - Featuring David Spark, Allan Alford and special guest Marnie Wilking (Head of Security and Technology Risk Management, Wayfair)
 
 # :scroll: Certifications
 
