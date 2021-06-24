@@ -4,15 +4,15 @@
 
 This is a list of resources (most are free, some are cheap, a handful are expensive) for security GRC folks.
 
-Each of you probably has a different title. Cyber Risk Managers, Security Compliance Program Managers, Business Information Security Officers, Security Risk & Compliance Senior Analysts, Third-Party Risk Management Governance Leads, GRC something, etc.
+Each of you probably has a different title. Cyber Risk Managers, Security Compliance Program Managers, Business Information Security Officers, Security Risk & Compliance Senior Analysts, Third-Party Risk Management Lead, Information Assurance Officer, GRC something, etc.
 
 This variety is naming isn't that great because it's *easier* for software developers to come together as a community to organize knowledge and share information. A major foundation of knowledge is useful and relevant to most SWE.
 
-Our field is only a couple of decades old and has exponentially developed in the past five years.
+Our field is only a couple of decades old and has exponentially grown in the past five years.
 
-Some of us work for SaaS companies (me! :bowtie:), the financial sector, healthcare, government, retail and a dozen other industries. Scope, budget, stakeholders and degrees of resentment can vary but there's a solid foundation common to most of us (let's say about 80%).
+Some of us work for SaaS companies (me! :bowtie:), financial services, healthcare, government, retail and a dozen other industries. Scope, budget, stakeholders and degrees of resentment can vary but there's a solid foundation common to most of us (let's say about 80%).
 
-So I thought, why not build a similar knowledge management platform... I know it's a GitHub repo but that makes my endeavour sound a lot more serious and technical than it actually is. I just thought content curation lists were amazing and that we should have one!
+So I thought, why not build a knowledge management platform... I know it's a GitHub repo but that makes my endeavour sound a lot more serious and technical than it actually is. I just thought content curation lists were amazing and that we should have one!
 
 This is GitHub which means, Pull Requests are more than welcome! Nothing here is gospel, definitions are often subject to debates and heated discussions on LinkedIn and everyone has a different opinion on G, R and C (hatred for C is probably consensual IMHO).
 
@@ -27,9 +27,13 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 - [:mortar_board: What is Security GRC?](#mortar_board-what-is-security-grc)
   - [:guardsman: Governance](#guardsman-governance)
   - [:chart_with_upwards_trend: Risk Management](#chart_with_upwards_trend-risk-management)
+    - [Risk Management Frameworks](#risk-management-frameworks)
+      - [Rapid Risk Assessment](#rapid-risk-assessment)
+      - [Factor Analysis of Information Risk](#factor-analysis-of-information-risk)
+      - [ISO 27005](#iso-27005)
+      - [NIST 800-39](#nist-800-39)
   - [:gun: Audit & Compliance](#gun-audit--compliance)
     - [:octopus: Frameworks and Regulations](#octopus-frameworks-and-regulations)
-  - [:ballot_box_with_check: What drives strong GRC programs?](#ballot_box_with_check-what-drives-strong-grc-programs)
 - [:books: Books](#books-books)
 - [:tv: Talks/Videos](#tv-talksvideos)
 - [:telephone_receiver: People you should know](#telephone_receiver-people-you-should-know)
@@ -37,6 +41,8 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
   - [:iphone: Follow them on LinkedIn](#iphone-follow-them-on-linkedin)
 - [:octocat: Repositories](#octocat-repositories)
 - [:microphone: Podcasts](#microphone-podcasts)
+  - [Security GRC Podcasts](#security-grc-podcasts)
+  - [Security GRC Episodes](#security-grc-episodes)
 - [:scroll: Certifications](#scroll-certifications)
 - [:triangular_ruler: The Knowledge Trifecta](#triangular_ruler-the-knowledge-trifecta)
   - [:floppy_disk: The Technical](#floppy_disk-the-technical)
@@ -45,13 +51,15 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 # :mortar_board: What is Security GRC?
 
-The security GRC field is covering lots of ground and include a varied number of tasks and responsibilities. Some of them will sound exciting, some will reignite very painful memories. 
+The security GRC field is covering lots of ground and include a varied number of tasks and responsibilities. Some of them will sound exciting, some will reignite painful memories. 
 
 ## :guardsman: Governance
 
 Governance, as the name implies, focuses on how security is managed and its oversight. This could include building the security strategy, managing the security programme and ensuring continous monitoring of workstreams.
 
-This would also be the area responsible for orchestration and metrics for your security programme. In other words, the always useful dashboard with 15 graphs and thousands of data points would be include in the governance efforts.
+This would also be the area responsible for orchestration and metrics for your security programme. In other words, the always useful dashboard with 15 graphs and thousands of data points would be include in the governance efforts. Your policies and procedures are also part of Governance as they help shape your vision of security and detail what is expected from everyone.
+
+Managing stakeholders is also central to Governance efforts. Relationship with the different teams, managing upwards and delivering the right level of information to senior executives.
 
 ## :chart_with_upwards_trend: Risk Management
 
@@ -63,6 +71,16 @@ Risk is traditionally explained as a factor of a threat and a vulnerability. Pre
 * A risk is threat * vulnerability... A risk is the impact if the threat exploits the vulnerability (R = T*V)
 
 A robust risk management program would also include some quantitative features to make sure senior management and business executives understands the financial costs associated with some of the identified risks. Nothing has to be too precise or too detailed, having numbers in the right ballpark and being able to evidence why you chose them is well more than enough.
+
+### Risk Management Frameworks
+
+#### Rapid Risk Assessment
+
+#### Factor Analysis of Information Risk
+
+#### ISO 27005
+
+#### NIST 800-39
 
 ## :gun: Audit & Compliance
 
@@ -85,15 +103,6 @@ Well...  There are a lot.  Your organization likely uses some of these, but cert
 * :white_flag: International Organisation for Standardization's Information Security Management Standard - [ISO 27001](https://www.iso.org/isoiec-27001-information-security.html)
 
 Added to that, each country would have specific cybersecurity regulations and standards companies would have to comply with. They could be specific to certain industries (critical infrastructures or financial services) or applicable to every company. As our planet is made of a lot of countries, we won't list the specifics here and as is often the case, US standards are picked up in most of the world anyway!
-
-## :ballot_box_with_check: What drives strong GRC programs?  
-* A Clearly defined business case and plan for implementing and supporting a GRC program  
-* Written policies, procedures and standards of conduct  
-* Assigned Compliance Officer, Compliance Committee and high level oversight  
-* Effective training and education  
-* Effective lines of communication, especially for internal reporting  
-* Effective systems for routine monitoring, auditing and identification of compliance risks  
-* Procedures and system for prompt response to compliance issues  
 
 # :books: Books
 
@@ -182,22 +191,37 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 # :microphone: Podcasts
 
-* [Security & Compliance Weekly](https://securityweekly.com/category-shows/security-and-compliance-weekly/) - Hosted by Jeff Man, Scott Lyons and Josh Marpet
+## Security GRC Podcasts
+
+* [*Security & Compliance Weekly*](https://podcasts.google.com/feed/aHR0cHM6Ly9zY3dhdWRpby5saWJzeW4uY29tL3Jzcw) - Hosted by Jeff Man, Scott Lyons and Josh Marpet
   * The name is pretty telling. PCI is often discussed in-depth, useful if you're responsible for your company's PCI-DSS program! 
 
-SECURITY NOW - Hosted by Steve Gibson, Leo Laporte https://twit.tv/shows/security-now
+* [*Risk, Governance and Cyber Compliance*](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83MjMzOTkucnNz?sa=X&ved=0CAkQlvsGahcKEwjonfmhqKnxAhUAAAAAHQAAAAAQAg) - Hosted by Dr. Bill Souza
+  * The last episode dates back to late 2020 but the content is top-notch and his views on risk management are worth a listen
+
+## Security GRC Episodes
+
+* [**Getting Over Our "Security ≠ Compliance" Obsession**, *CISO-Security Vendor Relationship Podcast*](https://podcasts.google.com/feed/aHR0cHM6Ly9kYXZpZHNwYXJrLmxpYnN5bi5jb20vY2lzb3ZlbmRvcg/episode/ZThiNjFmNGU0ZTVhNDAzM2E4YTQxZDkzYjE0M2E3NjA?sa=X&ved=0CAIQuIEEahcKEwiAg7brqqnxAhUAAAAAHQAAAAAQIQ) - Featuring David Spark, Mike Johnson and special guest Chris Hymes (Head of Infosec, Riot Games)
+
+* [**Is Governance the Most Important Part of GRC?**, *Defense in Depth Podcast*](https://podcasts.google.com/feed/aHR0cHM6Ly9kZWZlbnNlaW5kZXB0aC5saWJzeW4uY29tL3Jzcw/episode/NTI2MTAwM2MtZWIyZS00ZmIyLWJjY2UtNzk3MWVmNzhjOTE5?sa=X&ved=0CAUQkfYCahcKEwiAg7brqqnxAhUAAAAAHQAAAAAQLg) - Featuring David Spark, Allan Alford and special guest Mustapha Kebbeh (CISO, Brinks)
+
+* [**Should Risk Lead GRC?**, *Defense in Depth Podcast*](https://podcasts.google.com/feed/aHR0cHM6Ly9kZWZlbnNlaW5kZXB0aC5saWJzeW4uY29tL3Jzcw/episode/MjMyYWUwN2EtYzcxNi00M2I5LWIyMTgtOGM1YjU0M2FjNjZm?sa=X&ved=0CAUQkfYCahcKEwiAg7brqqnxAhUAAAAAHQAAAAAQLg) - Featuring David Spark, Allan Alford and special guest Marnie Wilking (Head of Security and Technology Risk Management, Wayfair)
+
+* [**IT Governance**, *CISO Tradecraft Podcast*](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2Npc290cmFkZWNyYWZ0L2ZlZWQueG1s/episode/Y2lzb3RyYWRlY3JhZnQucG9kYmVhbi5jb20vZGRkYTUyNDYtNGRjYi0zMmM5LWJmZGQtMDc0NWVmODE4NWRj?sa=X&ved=0CAUQkfYCahcKEwjItYv_qqnxAhUAAAAAHQAAAAAQIQ) - Featuring G Mark Hardy and Ross Young
+
+* [**Cyber Frameworks**, *CISO Tradecraft Podcast*](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2Npc290cmFkZWNyYWZ0L2ZlZWQueG1s/episode/Y2lzb3RyYWRlY3JhZnQucG9kYmVhbi5jb20vZWEwZjlkNjEtZjc5Zi0zOWQ2LWE0ZDQtMWZhMzg3ODA5ZWU4?sa=X&ved=0CAUQkfYCahcKEwjItYv_qqnxAhUAAAAAHQAAAAAQIQ) - Featuring G Mark Hardy and Ross Young
 
 # :scroll: Certifications
 
-Probably [the only resource you'll need](https://pauljerimy.com/security-certification-roadmap/) for certifications. Paul Jerimy has done an incredible job with input from lots of practitioners and experts in InfoSec. If one certification had to be mentioned, it would be the CISSP for obvious reasons (:unlock:).
+Probably [the only resource you'll need](https://pauljerimy.com/security-certification-roadmap/) for certifications. Paul Jerimy has done an incredible job with input from lots of practitioners and experts in InfoSec. If one certification had to be mentioned, it would be the CISSP for obvious reasons (:heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign:).
   
 # :triangular_ruler: The Knowledge Trifecta
 
 **We are offered jobs but we have a career.** We're the only one accountable for our career path and the best way to make the best of this is to continuously learn.
 
-This section might seem out of place for a content curation repository but I'm passionnate about this, sorry.
+This section might seem out of place for a content curation repository but I'm passionate about this, sorry.
 
-Security is a very young field and ours in even younger. Career pathways are still developing and no one *actually* know the sureway to a GRC leadership role or a CISO position.
+Security is a very young field and ours is even younger. Career pathways are still developing and no one *actually* knows the sureway to a GRC leadership role or a CISO position.
 
 The only thing that's certain is that this is the best thing that could happen to us. We can build our own paths. The only way we do this is through learning. Our field is about understanding, managing and translating. We understand the technical, manage security projects and translate into security terms business requirements.
 
@@ -209,8 +233,8 @@ Understanding the technical landscape.
 
 ## :lock_with_ink_pen: The Security
 
-Understanding the security measures
+Understanding the security measures.
 
 ## :briefcase: The Business
 
-Understanding the business language
+Understanding the business language.
