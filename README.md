@@ -188,13 +188,13 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 * :ticket: Everything from ***Atlassian's Risk & Compliance Team***
   * Working in a cloud-native, agile, DevOps and innovative (insert buzzwords) environment isn't the most intuitive for a GRC Team. Mapping controls and performing audits when speed trumps everything is challenging to say the least.
-  * Guy Herbert wrote a great series based on this talk called [**DevOps vs. Compliance, A Guide to Having it All](https://www.youtube.com/watch?v=r4vznrYn2Qk).
-    * [Part 1](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1095733) explains that:
+  * Guy Herbert wrote a great series based on this talk called [**DevOps vs. Compliance, A Guide to Having it All**](https://www.youtube.com/watch?v=r4vznrYn2Qk).
+    * [**Part 1**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1095733) explains that:
       * Compliance is being able to show that you follow the rules.
       * Risk management is balancing upsides and downsides.
-    * [Part 2](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1100861) walks you through what compliance obligations, control objectives and control activities are and the different planning phases to reach compliance automation 
-    * [Part 3](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1106264) demonstrates with the Atlassian product suite how compliance is embedded into the CI/CD pipeline
-    * [Part 4](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1113058) deals with how to sell such a cutting-edge approach to auditors and why agility and compliance CAN live in harmony :)
+    * [**Part 2**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1100861) walks you through what compliance obligations, control objectives and control activities are and the different planning phases to reach compliance automation 
+    * [**Part 3**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1106264) demonstrates with the Atlassian product suite how compliance is embedded into the CI/CD pipeline
+    * [**Part 4**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1113058) deals with how to sell such a cutting-edge approach to auditors and why agility and compliance CAN live in harmony :)
 
 
 
