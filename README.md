@@ -96,11 +96,12 @@ Well...  There are a lot.  Your organization likely uses some of these, but cert
 
 * :bank: Sarbanes-Oxley Act - [SOX](https://www.congress.gov/bill/107th-congress/house-bill/3763)   
 * :euro: General Data Protection Regulation - [GDPR](https://gdpr-info.eu/)  
-* :credit_card: Payment Card Industry Data Security Standard - [PCI-DSS](https://www.congress.gov/bill/107th-congress/house-bill/3763)  
+* :credit_card: Payment Card Industry Data Security Standard - [PCI-DSS](https://www.pcisecuritystandards.org/)  
 * :statue_of_liberty: Federal Information Security Modernization Act - [FISMA](https://www.cisa.gov/federal-information-security-modernization-act)  
 * :hospital: Health Insurance Portability and Accountability Act - [HIPAA](https://www.hhs.gov/hipaa/index.html)  
 * :oncoming_police_car: Security and Privacy Controls for Information Systems and Organizations - [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
 * :white_flag: International Organisation for Standardization's Information Security Management Standard - [ISO 27001](https://www.iso.org/isoiec-27001-information-security.html)
+* :computer: American Institute of CPAs - [SOC2](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html)
 
 Added to that, each country would have specific cybersecurity regulations and standards companies would have to comply with. They could be specific to certain industries (critical infrastructures or financial services) or applicable to every company. As our planet is made of a lot of countries, we won't list the specifics here and as is often the case, US standards are picked up in most of the world anyway!
 
@@ -178,12 +179,24 @@ Added to that, each country would have specific cybersecurity regulations and st
   * His take on most subjects are worth the read, he has a great analysis of the [*Compliance vs. Security*](https://www.philvenables.com/post/compliance-vs-security) debate
   * Phil has over 20 years of experience in security leadership at Goldman Sachs and now the CISO of Google Cloud
 
-* :rotating_light: Everything written by ***Adobe Tech GRC Team***.
+* :rotating_light: Everything from ***Adobe's Tech GRC Team***.
   * They've been at the forefront of innovation in the field, even building their own [Common Control Framework](https://blog.adobe.com/en/publish/2020/11/19/common-controls-framework-ccf-by-adobe-v4-0-now-available.html#gs.1v9q24). They produced numerous posts I suggest you have a look at:
   * Managing everyone's input, role and expectations into the overall security compliance effort can often be cumbersome. Adobe Tech GRC Team [introduced scalability by creating **four major roles**](https://medium.com/adobetech/scaling-security-controls-across-the-enterprise-5870e14f4865) to map to the CCF standard and help achieve GRC in a [**multi-cloud environment**](https://medium.com/adobetech/enabling-compliance-and-governance-at-scale-in-a-multi-cloud-environment-82847ba5d341)
   * Automating the Common Controls Framework, [Part I](https://medium.com/adobetech/automating-the-common-controls-framework-ccf-part-i-83271bdb0f00) and [Part II](https://medium.com/adobetech/automating-the-common-controls-framework-part-ii-d010bea9bcc4). Adobe as a major SaaS provider has to have a Tech GRC program that scales accordingly and these two articles introduce the **4-layer model** used to automate security compliance
   * A major feature of their Tech GRC program are the [**Strategic Technology Initiatives**](https://medium.com/adobetech/how-our-strategic-technology-initiatives-program-helps-automate-and-scale-key-security-initiatives-bd666440ed4b). They are the equivalent of the DevOps principles but applied to technology GRC efforts. A must-read
   * If articles aren't your thing, check out [this podcast](https://techspective.net/2021/03/23/prabath-karanth-shares-adobes-creative-approach-to-managing-grc/) with former leader from Adobe Tech GRC Prabhath Karanth. Great overview of the program and the STIs
+
+* :ticket: Everything from ***Atlassian's Risk & Compliance Team***
+  * Working in a cloud-native, agile, DevOps and innovative (insert buzzwords) environment isn't the most intuitive for a GRC Team. Mapping controls and performing audits when speed trumps everything is challenging to say the least.
+  * Guy Herbert wrote a great series based on this talk called [**DevOps vs. Compliance, A Guide to Having it All**](https://www.youtube.com/watch?v=r4vznrYn2Qk).
+    * [**Part 1**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1095733) explains that:
+      * Compliance is being able to show that you follow the rules.
+      * Risk management is balancing upsides and downsides.
+    * [**Part 2**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1100861) walks you through what compliance obligations, control objectives and control activities are and the different planning phases to reach compliance automation 
+    * [**Part 3**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1106264) demonstrates with the Atlassian product suite how compliance is embedded into the CI/CD pipeline
+    * [**Part 4**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1113058) deals with how to sell such a cutting-edge approach to auditors and why agility and compliance CAN live in harmony :)
+
+
 
 ## :iphone: Follow them on LinkedIn
 
