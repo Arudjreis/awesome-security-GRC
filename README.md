@@ -82,6 +82,14 @@ A robust risk management program would also include some quantitative features t
 
 #### NIST 800-39
 
+### Risk Management Tools & Packages
+
+#### Netflix's riskquant
+
+[riskquant](https://github.com/Netflix-Skunkworks/riskquant) is a python library used for risk quantification. It can be used to do cool things like calculate annualized loss and generate loss exceedence curve charts. 
+
+You can use it to assess individual risks or even build automation to run calculations and build charts for all risks where data are available. For example, you can set up a GitHub Action to pull risks from your GRC tool, get the data to run the calculations, and put the results back into your GRC tool.
+
 ## :gun: Audit & Compliance
 
 Once you know what your direction is and you know what to focus on, how do you know you're on track? There's two ways:
