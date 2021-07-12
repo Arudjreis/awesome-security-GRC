@@ -18,7 +18,7 @@ This is GitHub which means, Pull Requests are more than welcome! Nothing here is
 
 Feel free to share your resources, correct my faulty Frenglish or add cooler emojis.
 
-> *This contains an awful lot of expert puns and boomer jokes* 
+> *This contains an awful lot of expert puns and boomer jokes*
 
 ## :notebook_with_decorative_cover: Contents
 
@@ -51,7 +51,7 @@ Feel free to share your resources, correct my faulty Frenglish or add cooler emo
 
 # :mortar_board: What is Security GRC?
 
-The security GRC field is covering lots of ground and include a varied number of tasks and responsibilities. Some of them will sound exciting, some will reignite painful memories. 
+The security GRC field is covering lots of ground and include a varied number of tasks and responsibilities. Some of them will sound exciting, some will reignite painful memories.
 
 ## :guardsman: Governance
 
@@ -72,15 +72,74 @@ Risk is traditionally explained as a factor of a threat and a vulnerability. Pre
 
 A robust risk management program would also include some quantitative features to make sure senior management and business executives understands the financial costs associated with some of the identified risks. Nothing has to be too precise or too detailed, having numbers in the right ballpark and being able to evidence why you chose them is well more than enough.
 
-### Risk Management Frameworks
+### Risk Management Frameworks (RMF)
+
+A risk management framework describe the vocabulary, tools and techniques for a coherent approach and ensure that all stakeholders are on the same page.
+
+Enterprise frameworks identifies _any type of risk_ that could prevent the company from achieving its business objectives while others focus on information security, cybersecurity and privacy protection.
+
+#### COSO Enterprise Risk Management
+
+The Committee of Sponsoring Organizations of the Treadway Commission [(COSO)](https://www.coso.org) help organizations improve internal control with the [ERM Framework (2020)](https://www.coso.org/Documents/Compliance-Risk-Management-Applying-the-COSO-ERM-Framework.pdf).
+
+#### Factor Analysis of Information Risk (FAIR)
+
+[Fair](https://www.fairinstitute.org/) is a quantitative model for information security and operational risk.
+
+#### International Organization for Standardization (ISO)
+
+[ISO/IEC 27005:2018
+Information technology – Security techniques – Information security risk management](https://www.iso.org/standard/75281.html) provides guidelines to managing _information security risks_ faced by organizations. The application of these guidelines can be applied to an Information Security Management System (ISMS) specified in ISO/IEC 27001 and and ISO/IEC 27002.
+
+A technical committee named[ISO/IEC JTC 1/SC 27](https://www.iso.org/committee/45306.html) focus on the development of standards for the protection of information and ICT.
+
+[ISO 31000](https://www.iso.org/iso-31000-risk-management.html) provides a common approach to managing _any type of risk_ faced by organizations. The application of these guidelines can be customized to any organization and its context.
+
+The ISO 31000 Risk Management umbrella include some specifications still under development:
+ISO 31000:2018
+Risk management — Guidelines
+ * [ISO 31000 Risk management – Guidelines](https://www.iso.org/standard/65694.html)
+ * [ISO 31000:2019 Risk Management – Risk Assessment Techniques](https://www.iso.org/standard/72140.html)
+ * [ISO 31022:2020 Risk Management — Guidelines for the management of legal risk](https://www.iso.org/standard/69295.html)
+ * [ISO/FDIS 31030 Travel Risk Management — Guidance for organizations](https://www.iso.org/standard/54204.html)
+ * [ISO/AWI 31050 – Guidance for managing emerging risks to enhance resilience](https://www.iso.org/standard/54224.html)
+ * [ISO/DIS 31073 Risk Management – Vocabulary](https://www.iso.org/standard/79637.html)
+
+A technical committee named[ISO/TC 262](https://www.iso.org/committee/629121.html) focus on the development of standards in the field of risk management. Visit the Technical Committee's own [website](https://committee.iso.org/home/tc262) for more information.
+
+#### NIST
+
+The [NIST Risk Management Framework](https://csrc.nist.gov/Projects/risk-management) provides a process that integrates security, privacy and risk management activities into the system development life cycle to meet the requirements of the Federal Information Security Modernization Act [(FISMA)](https://www.cisa.gov/federal-information-security-modernization-act).
+
+Note that [NIST Special Publications 800-53 revision 5](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf) describe the Security and Privacy Controls for Information Systems and Organizations and the [special publication 800-53*B*](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53B.pdf) describe the control baselines.
+
+*Related initiatives**
+
+* [Special Publication 800-37: Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy](https://csrc.nist.gov/publications/detail/sp/800-37/rev-2/final)
+* [Special Publication 800-39: Managing Information Security Risk: Organization, Mission, and Information System View](https://csrc.nist.gov/publications/detail/sp/800-39/final)
+ * [Special Publication 800-30 Rev. 1: Guide for Conducting Risk Assessments](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final) 
+* [Special Publication 800-53A: Assessing Security and Privacy Controls in Federal Information Systems and Organizations: Building Effective Assessment Plans](https://csrc.nist.gov/publications/detail/sp/800-53a/rev-4/final) 
+* [Special Publication 800-161: Supply Chain Risk Management Practices for Federal Information Systems and Organizations](https://csrc.nist.gov/publications/detail/sp/800-161/final)
+
+#### Operationally Critical Threat, Asset and Vulnerability Evaluation (OCTAVE)
+
+The [OCTAVE method](http://www.cert.org/octave) was developed by the Software Engineering Institute (SEI) at Carnegie Mellon University on behalf of the Department of Defense.
 
 #### Rapid Risk Assessment
 
-#### Factor Analysis of Information Risk
+The [Rapid Risk Analysis (RRA) methodology](https://infosec.mozilla.org/guidelines/risk/rapid_risk_assessment.html) developed by Mozilla helps formalize decisions in 60 minutes.
 
-#### ISO 27005
+#### Threat Agent Risk Assessment (TARA)
 
-#### NIST 800-39
+[Threat Assessment and Remediation Analysis (TARA)](https://www.mitre.org/publications/technical-papers/threat-assessment-and-remediation-analysis-tara) is an engineering methodology used to identify and assess cyber vulnerabilities and select countermeasures effective at mitigating those vulnerabilities. TARA is part of a MITRE portfolio of systems security engineering (SSE) practices.
+
+### Risk Management Tools & Packages
+
+#### Netflix's riskquant
+
+[riskquant](https://github.com/Netflix-Skunkworks/riskquant) is a python library used for risk quantification. It can be used to do cool things like calculate annualized loss and generate loss exceedence curve charts.
+
+You can use it to assess individual risks or even build automation to run calculations and build charts for all risks where data are available. For example, you can set up a GitHub Action to pull risks from your GRC tool, get the data to run the calculations, and put the results back into your GRC tool.
 
 ## :gun: Audit & Compliance
 
@@ -94,14 +153,16 @@ Often hated (often for good reasons), audit and compliance folks have to be anno
 
 Well...  There are a lot.  Your organization likely uses some of these, but certainly not all. Executive leadership drives policy at a high level based on business objectives. Certain regulations are mandatory. For instance Sarbanes-Oxley Act (SOX) for US publicly traded companies or General Data Protection Regulation (GDPR) applies to any organisation handling data from EU citizens. This is a non-exhaustive alphabet soup of frameworks and regulations:
 
-* :bank: Sarbanes-Oxley Act - [SOX](https://www.congress.gov/bill/107th-congress/house-bill/3763)   
-* :euro: General Data Protection Regulation - [GDPR](https://gdpr-info.eu/)  
-* :credit_card: Payment Card Industry Data Security Standard - [PCI-DSS](https://www.pcisecuritystandards.org/)  
-* :statue_of_liberty: Federal Information Security Modernization Act - [FISMA](https://www.cisa.gov/federal-information-security-modernization-act)  
-* :hospital: Health Insurance Portability and Accountability Act - [HIPAA](https://www.hhs.gov/hipaa/index.html)  
-* :oncoming_police_car: Security and Privacy Controls for Information Systems and Organizations - [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+* :bank: Sarbanes-Oxley Act - [SOX](https://www.congress.gov/bill/107th-congress/house-bill/3763)
+* :euro: General Data Protection Regulation - [GDPR](https://gdpr-info.eu/)
+* :credit_card: Payment Card Industry Data Security Standard - [PCI-DSS](https://www.pcisecuritystandards.org/)
+* :hospital: Health Insurance Portability and Accountability Act - [HIPAA](https://www.hhs.gov/hipaa/index.html)
 * :white_flag: International Organisation for Standardization's Information Security Management Standard - [ISO 27001](https://www.iso.org/isoiec-27001-information-security.html)
-* :computer: American Institute of CPAs - [SOC2](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html)
+* :computer: Systems and Organization Controls for Service Organizations: Trust Services Criteria - [SOC2](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html)
+* ☁️ Federal Risk and Authorization Management Program - [FedRAMP](https://www.fedramp.gov/)
+* :statue_of_liberty: Federal Information Security Modernization Act - [FISMA](https://www.cisa.gov/federal-information-security-modernization-act)
+* :oncoming_police_car: Security and Privacy Controls for Information Systems and Organizations - [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+* 🗄️ Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations - [NIST SP 800-171 Rev. 2](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final)
 
 Added to that, each country would have specific cybersecurity regulations and standards companies would have to comply with. They could be specific to certain industries (critical infrastructures or financial services) or applicable to every company. As our planet is made of a lot of countries, we won't list the specifics here and as is often the case, US standards are picked up in most of the world anyway!
 
@@ -109,7 +170,7 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 * [**Security Risk Management**, *Evan Wheeler*, 2011](https://learning.oreilly.com/library/view/security-risk-management/9781597496155/)
   * Often part of reading lists at universities, this is your first stop in security risk management. This book is both comprehensive, timeless and accessible
-  * Great for referencing, it will help you assess and improve your internal risk management program. Focus on the **Action Plans** at the end of each chapter for some great takeaways 
+  * Great for referencing, it will help you assess and improve your internal risk management program. Focus on the **Action Plans** at the end of each chapter for some great takeaways
 
 * [**Measuring and Managing Information Risk**, *Jack Freund & Jack Jones*, 2014](https://learning.oreilly.com/library/view/measuring-and-managing/9780124202313/)
   * The FAIR book itself. Self explanatory, if you want to know more about risk quantification this is a must-read, the story in the intro is meme material.
@@ -121,7 +182,7 @@ Added to that, each country would have specific cybersecurity regulations and st
     * You **need *less* data** than you think
 
 * [**Transformational Security Awareness**, *Perry Carpenter*, 2019](https://learning.oreilly.com/library/view/transformational-security-awareness/9781119566342/)
-  * The best Security Awareness book ever written. You'll need this because GRC teams often handle Security Awareness and this will be a great resource to kickstart your program 
+  * The best Security Awareness book ever written. You'll need this because GRC teams often handle Security Awareness and this will be a great resource to kickstart your program
   * Goes through the tools you need to build an effective awareness strategy, Marketing, Communications, Behavioural Science, Culture Management, etc. If advertisers have been successful for the past half century, we probably have something to learn from them!
 
 * [**Foundations of Information Security**, *Jason Andress*, 2019](https://learning.oreilly.com/library/view/foundations-of-information/9781098122546/)
@@ -135,7 +196,7 @@ Added to that, each country would have specific cybersecurity regulations and st
 * [**IT Auditing Using Controls to Protect Information Assets**, *Mike Kegerreis, Mike Schiller and Chris Davis*, 2019](https://learning.oreilly.com/library/view/it-auditing-using/9781260453232/)
   * IT Auditing stems from the increase of regulations that followed major financial scandals of the early 2000s. This is dominated by the Big Four audit firms for obvious reasons even though major corporations have internal staff dedicated to IT auditing
   * This book is an encyclopedia that goes through how to audit everything from Data Centers to Networking Devices and from Web Applications to Windows Servers
-  * Written by industry experts with decades of experience, this will also be useful to GRC folks trying to understand some of the controls to verify with their teams armed with the underlying technical knowledge and know-how necessary 
+  * Written by industry experts with decades of experience, this will also be useful to GRC folks trying to understand some of the controls to verify with their teams armed with the underlying technical knowledge and know-how necessary
 
 * [**A Leader's Guide to Cybersecurity**, *Thomas J. Parenty and Jack J. Domet*, 2019](https://learning.oreilly.com/library/view/a-leaders-guide/9781633698000/)
   * Great opportunity to understand security when it's written for the business. Down to earth and debunks some of the tropes we often repeat such as Security as a "People Problem"
@@ -192,7 +253,7 @@ Added to that, each country would have specific cybersecurity regulations and st
     * [**Part 1**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1095733) explains that:
       * Compliance is being able to show that you follow the rules.
       * Risk management is balancing upsides and downsides.
-    * [**Part 2**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1100861) walks you through what compliance obligations, control objectives and control activities are and the different planning phases to reach compliance automation 
+    * [**Part 2**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1100861) walks you through what compliance obligations, control objectives and control activities are and the different planning phases to reach compliance automation
     * [**Part 3**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1106264) demonstrates with the Atlassian product suite how compliance is embedded into the CI/CD pipeline
     * [**Part 4**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1113058) deals with how to sell such a cutting-edge approach to auditors and why agility and compliance CAN live in harmony :)
 
@@ -207,7 +268,7 @@ Added to that, each country would have specific cybersecurity regulations and st
 ## Security GRC Podcasts
 
 * [*Security & Compliance Weekly*](https://podcasts.google.com/feed/aHR0cHM6Ly9zY3dhdWRpby5saWJzeW4uY29tL3Jzcw) - Hosted by Jeff Man, Scott Lyons and Josh Marpet
-  * The name is pretty telling. PCI is often discussed in-depth, useful if you're responsible for your company's PCI-DSS program! 
+  * The name is pretty telling. PCI is often discussed in-depth, useful if you're responsible for your company's PCI-DSS program!
 
 * [*Risk, Governance and Cyber Compliance*](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83MjMzOTkucnNz?sa=X&ved=0CAkQlvsGahcKEwjonfmhqKnxAhUAAAAAHQAAAAAQAg) - Hosted by Dr. Bill Souza
   * The last episode dates back to late 2020 but the content is top-notch and his views on risk management are worth a listen
@@ -227,7 +288,7 @@ Added to that, each country would have specific cybersecurity regulations and st
 # :scroll: Certifications
 
 Probably [the only resource you'll need](https://pauljerimy.com/security-certification-roadmap/) for certifications. Paul Jerimy has done an incredible job with input from lots of practitioners and experts in InfoSec. If one certification had to be mentioned, it would be the CISSP for obvious reasons (:heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign:).
-  
+
 # :triangular_ruler: The Knowledge Trifecta
 
 **We are offered jobs but we have a career.** We're the only one accountable for our career path and the best way to make the best of this is to continuously learn.
