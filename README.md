@@ -117,7 +117,7 @@ Note that [NIST Special Publications 800-53 revision 5](https://nvlpubs.nist.gov
 
 * [Special Publication 800-37: Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy](https://csrc.nist.gov/publications/detail/sp/800-37/rev-2/final)
 * [Special Publication 800-39: Managing Information Security Risk: Organization, Mission, and Information System View](https://csrc.nist.gov/publications/detail/sp/800-39/final)
- * [Special Publication 800-30 Rev. 1: Guide for Conducting Risk Assessments](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final) 
+* [Special Publication 800-30 Rev. 1: Guide for Conducting Risk Assessments](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final) 
 * [Special Publication 800-53A: Assessing Security and Privacy Controls in Federal Information Systems and Organizations: Building Effective Assessment Plans](https://csrc.nist.gov/publications/detail/sp/800-53a/rev-4/final) 
 * [Special Publication 800-161: Supply Chain Risk Management Practices for Federal Information Systems and Organizations](https://csrc.nist.gov/publications/detail/sp/800-161/final)
 
@@ -134,6 +134,12 @@ The [Rapid Risk Analysis (RRA) methodology](https://infosec.mozilla.org/guidelin
 [Threat Assessment and Remediation Analysis (TARA)](https://www.mitre.org/publications/technical-papers/threat-assessment-and-remediation-analysis-tara) is an engineering methodology used to identify and assess cyber vulnerabilities and select countermeasures effective at mitigating those vulnerabilities. TARA is part of a MITRE portfolio of systems security engineering (SSE) practices.
 
 ### Risk Management Tools & Packages
+
+* [*Comply*](https://github.com/strongdm/comply)
+  * Comply is a SOC2-focused compliance automation tool.  
+    * Policy Generator: markdown-powered document pipeline for publishing auditor-friendly policy documents
+    * Ticketing Integration: automate compliance throughout the year via your existing ticketing system
+    * SOC2 Templates: open source policy and procedure templates suitable for satisfying a SOC2 audit
 
 #### Netflix's riskquant
 
@@ -226,8 +232,8 @@ Added to that, each country would have specific cybersecurity regulations and st
   * :blue_book: **Risk Frameworks** such as *NIST 800-37* or *FAIR* to identify, measure and quantify risk
 
 * I have a full playlist of over [80 videos focus on Risk Management and Cyber Risk Quantification,](https://www.youtube.com/playlist?list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) will update it soon but it already has a lot.
-  * This quick live [Quantitative Cyber Risk Analysis](https://www.youtube.com/watch?v=fHUv8TJC6kM&list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH&index=5) from *Evan Wheeler* is a great overview of how straightforward a quantitative analysis can be
-  * *Steve Reznik* has numerous talks on how FAIR can help build meaningful KRIs but [this one](https://www.youtube.com/watch?v=w4x1tWTiCHg&list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH&index=16) is a starting suggestion
+  * This quick live [Quantitative Cyber Risk Analysis](https://www.youtube.com/watch?v=fHUv8TJC6kM&list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) from *Evan Wheeler* is a great overview of how straightforward a quantitative analysis can be
+  * *Steve Reznik* has numerous talks on how FAIR can help build meaningful KRIs but [this one](https://www.youtube.com/watch?v=w4x1tWTiCHg&list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) is a starting suggestion
 
 # :telephone_receiver: People you should know
 
@@ -262,9 +268,27 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 ## :iphone: Follow them on LinkedIn
 
+* [*Brian Krebs*](https://www.linkedin.com/in/bkrebs/)
+Brian Krebs is an independent investigative journalist. He primarily covers cybercrime, security, and privacy. Mr. Krebs is the Author of 'Spam Nation,' a NYT bestseller.
+
+* [*Troy Hunt*](https://www.linkedin.com/in/troyhunt/)
+Troy Hunt is a Pluralsight Information Security Author & Instructor, Microsoft Regional Director. Mr. Hunt speaks at conferences around the world and runs workshops on building more secure software within organisations. He is also the creator of the data breach aggregation service known as [*"Have I Been Pwned"*](https://haveibeenpwned.com/).
+
+* [*Robert Herjavec*](https://www.linkedin.com/in/robertherjavec/)
+Robert Herjavec is the founder of Herjavec Group (and leading Shark on ABC’s Shark Tank). Mr. Herjavec regularly posts about cybercrime, cybersecurity, and risk management, with over 2,000,000 followers.
+
 # :octocat: Repositories
 
+* [*Minimslist Risk Management*](https://github.com/magoo/minimalist-risk-management)
+  * Ryan McGeehan, a founder/advisor for HackerOne, has developed minimalist documentation to describe a simple risk management program.
+
 # :microphone: Podcasts
+
+* [*Security Now*](https://www.grc.com/securitynow.htm) - Hosted by Steve Gibson and Leo Laporte
+  * Stay up-to-date and deepen your cybersecurity acumen with Security Now. On this long-running podcast, cybersecurity authority Steve Gibson and technology expert Leo Laporte bring their extensive and historical knowledge to explore digital security topics in depth. Each week, they take complex issues and break them down for clarity and big-picture understanding.
+
+* [*The SecureWorld Sessions*](https://podcasts.apple.com/us/podcast/the-secureworld-sessions/id1478674556)
+  * Cybersecurity weekly podcast series featuring industry thought leaders discussing security solutions, best practices, threat intel, and more.
 
 ## Security GRC Podcasts
 
