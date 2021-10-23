@@ -12,7 +12,7 @@ Our field is only a couple of decades old and has exponentially grown in the pas
 
 Some of us work for SaaS companies (me! :bowtie:), financial services, healthcare, government, retail and a dozen other industries. Scope, budget, stakeholders and degrees of resentment can vary but there's a solid foundation common to most of us (let's say about 80%).
 
-So I thought, why not build a knowledge management platform... I know it's a GitHub repo but that makes my endeavour sound a lot more serious and technical than it actually is. I just thought content curation lists were amazing and that we should have one!
+So I thought, why not build a knowledge management platform... I know it's a GitHub repo but that makes my endeavor sound a lot more serious and technical than it actually is. I just thought content curation lists were amazing and that we should have one!
 
 This is GitHub which means, Pull Requests are more than welcome! Nothing here is gospel, definitions are often subject to debates and heated discussions on LinkedIn and everyone has a different opinion on G, R and C (hatred for C is probably consensual IMHO).
 
@@ -55,18 +55,18 @@ The security GRC field is covering lots of ground and include a varied number of
 
 ## :guardsman: Governance
 
-Governance, as the name implies, focuses on how security is managed and its oversight. This could include building the security strategy, managing the security programme and ensuring continous monitoring of workstreams.
+Governance, as the name implies, focuses on how security is managed and its oversight. This could include building the security strategy, managing the security program and ensuring continuous monitoring of workstreams.
 
-This would also be the area responsible for orchestration and metrics for your security programme. In other words, the always useful dashboard with 15 graphs and thousands of data points would be include in the governance efforts. Your policies and procedures are also part of Governance as they help shape your vision of security and detail what is expected from everyone.
+This would also be the area responsible for orchestration and metrics for your security program. In other words, the always useful dashboard with 15 graphs and thousands of data points would be include in the governance efforts. Your policies and procedures are also part of Governance as they help shape your vision of security and detail what is expected from everyone.
 
 Managing stakeholders is also central to Governance efforts. Relationship with the different teams, managing upwards and delivering the right level of information to senior executives.
 
 ## :chart_with_upwards_trend: Risk Management
 
-How do I know what's the priority for my security programme? Lockdown end-user access or focus on patching? (probably both lol) The only way to make rational decisions regarding what to do is to perform risk assessments.
+How do I know what's the priority for my security program? Lockdown end-user access or focus on patching? (probably both lol) The only way to make rational decisions regarding what to do is to perform risk assessments.
 
 Risk is traditionally explained as a factor of a threat and a vulnerability. Pretty simplistic (probably false as well) but it gets the job done:
-* A threat is a potential harmful event that could impact your organisation
+* A threat is a potential harmful event that could impact your organization
 * A vulnerability is a known weakness that could be exploited
 * A risk is threat * vulnerability... A risk is the impact if the threat exploits the vulnerability (R = T*V)
 
@@ -74,7 +74,7 @@ A robust risk management program would also include some quantitative features t
 
 ### Risk Management Frameworks (RMF)
 
-A risk management framework describe the vocabulary, tools and techniques for a coherent approach and ensure that all stakeholders are on the same page.
+A risk management framework describes the vocabulary, tools and techniques for a coherent approach and ensure that all stakeholders are on the same page.
 
 Enterprise frameworks identifies _any type of risk_ that could prevent the company from achieving its business objectives while others focus on information security, cybersecurity and privacy protection.
 
@@ -89,7 +89,7 @@ The Committee of Sponsoring Organizations of the Treadway Commission [(COSO)](ht
 #### International Organization for Standardization (ISO)
 
 [ISO/IEC 27005:2018
-Information technology – Security techniques – Information security risk management](https://www.iso.org/standard/75281.html) provides guidelines to managing _information security risks_ faced by organizations. The application of these guidelines can be applied to an Information Security Management System (ISMS) specified in ISO/IEC 27001 and and ISO/IEC 27002.
+Information technology – Security techniques – Information security risk management](https://www.iso.org/standard/75281.html) provides guidelines to managing _information security risks_ faced by organizations. The application of these guidelines can be applied to an Information Security Management System (ISMS) specified in ISO/IEC 27001 and ISO/IEC 27002.
 
 A technical committee named[ISO/IEC JTC 1/SC 27](https://www.iso.org/committee/45306.html) focus on the development of standards for the protection of information and ICT.
 
@@ -117,8 +117,8 @@ Note that [NIST Special Publications 800-53 revision 5](https://nvlpubs.nist.gov
 
 * [Special Publication 800-37: Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy](https://csrc.nist.gov/publications/detail/sp/800-37/rev-2/final)
 * [Special Publication 800-39: Managing Information Security Risk: Organization, Mission, and Information System View](https://csrc.nist.gov/publications/detail/sp/800-39/final)
-* [Special Publication 800-30 Rev. 1: Guide for Conducting Risk Assessments](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final) 
-* [Special Publication 800-53A: Assessing Security and Privacy Controls in Federal Information Systems and Organizations: Building Effective Assessment Plans](https://csrc.nist.gov/publications/detail/sp/800-53a/rev-4/final) 
+* [Special Publication 800-30 Rev. 1: Guide for Conducting Risk Assessments](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final) 
+* [Special Publication 800-53A: Assessing Security and Privacy Controls in Federal Information Systems and Organizations: Building Effective Assessment Plans](https://csrc.nist.gov/publications/detail/sp/800-53a/rev-4/final) 
 * [Special Publication 800-161: Supply Chain Risk Management Practices for Federal Information Systems and Organizations](https://csrc.nist.gov/publications/detail/sp/800-161/final)
 
 #### Operationally Critical Threat, Asset and Vulnerability Evaluation (OCTAVE)
@@ -139,31 +139,31 @@ The [Rapid Risk Analysis (RRA) methodology](https://infosec.mozilla.org/guidelin
   * Comply is a SOC2-focused compliance automation tool.  
     * Policy Generator: markdown-powered document pipeline for publishing auditor-friendly policy documents
     * Ticketing Integration: automate compliance throughout the year via your existing ticketing system
-    * SOC2 Templates: open source policy and procedure templates suitable for satisfying a SOC2 audit
+    * SOC2 Templates: open-source policy and procedure templates suitable for satisfying a SOC2 audit
 
 #### Netflix's riskquant
 
-[riskquant](https://github.com/Netflix-Skunkworks/riskquant) is a python library used for risk quantification. It can be used to do cool things like calculate annualized loss and generate loss exceedence curve charts.
+[riskquant](https://github.com/Netflix-Skunkworks/riskquant) is a python library used for risk quantification. It can be used to do cool things like calculate annualized loss and generate loss exceedance curve charts.
 
 You can use it to assess individual risks or even build automation to run calculations and build charts for all risks where data are available. For example, you can set up a GitHub Action to pull risks from your GRC tool, get the data to run the calculations, and put the results back into your GRC tool.
 
 ## :gun: Audit & Compliance
 
 Once you know what your direction is and you know what to focus on, how do you know you're on track? There's two ways:
-* Auditing allows you to know if the controls you chose and your security programme is working effectively
+* Auditing allows you to know if the controls you chose and your security program is working effectively
 * Compliance is how close are you to the baseline either set by yourself or by a 3rd party body (ISO, AICPA, insert acronyms)
 
 Often hated (often for good reasons), audit and compliance folks have to be annoying by nature. They assess how things you said you'd do are actually done in the real world. More often than not, things are either not done as they should or not done at all. Probably because no one has read the policies you took six months to write!
 
 ### :octopus: Frameworks and Regulations
 
-Well...  There are a lot.  Your organization likely uses some of these, but certainly not all. Executive leadership drives policy at a high level based on business objectives. Certain regulations are mandatory. For instance Sarbanes-Oxley Act (SOX) for US publicly traded companies or General Data Protection Regulation (GDPR) applies to any organisation handling data from EU citizens. This is a non-exhaustive alphabet soup of frameworks and regulations:
+Well...  There are a lot.  Your organization likely uses some of these, but certainly not all. Executive leadership drives policy at a high level based on business objectives. Certain regulations are mandatory. For instance, Sarbanes-Oxley Act (SOX) for US publicly traded companies or General Data Protection Regulation (GDPR) applies to any organization handling data from EU citizens. This is a non-exhaustive alphabet soup of frameworks and regulations:
 
 * :bank: Sarbanes-Oxley Act - [SOX](https://www.congress.gov/bill/107th-congress/house-bill/3763)
 * :euro: General Data Protection Regulation - [GDPR](https://gdpr-info.eu/)
 * :credit_card: Payment Card Industry Data Security Standard - [PCI-DSS](https://www.pcisecuritystandards.org/)
 * :hospital: Health Insurance Portability and Accountability Act - [HIPAA](https://www.hhs.gov/hipaa/index.html)
-* :white_flag: International Organisation for Standardization's Information Security Management Standard - [ISO 27001](https://www.iso.org/isoiec-27001-information-security.html)
+* :white_flag: International Organization for Standardization's Information Security Management Standard - [ISO 27001](https://www.iso.org/isoiec-27001-information-security.html)
 * :computer: Systems and Organization Controls for Service Organizations: Trust Services Criteria - [SOC2](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html)
 * ☁️ Federal Risk and Authorization Management Program - [FedRAMP](https://www.fedramp.gov/)
 * :statue_of_liberty: Federal Information Security Modernization Act - [FISMA](https://www.cisa.gov/federal-information-security-modernization-act)
@@ -180,7 +180,7 @@ Added to that, each country would have specific cybersecurity regulations and st
   * Great for referencing, it will help you assess and improve your internal risk management program. Focus on the **Action Plans** at the end of each chapter for some great takeaways
 
 * [**Measuring and Managing Information Risk**, *Jack Freund & Jack Jones*, 2014](https://learning.oreilly.com/library/view/measuring-and-managing/9780124202313/)
-  * The FAIR book itself. Self explanatory, if you want to know more about risk quantification this is a must-read, the story in the intro is meme material.
+  * The FAIR book itself. Self-explanatory, if you want to know more about risk quantification this is a must-read, the story in the intro is meme material.
 
 * [**How to Measure Anything in Cybersecurity Risk**, *Douglas Hubbard & Richard Seiersen*, 2016](https://learning.oreilly.com/library/view/how-to-measure/9781119085294/)
   * Amazing primer on Cyber Risk Quantification as a whole. Keep these things in mind:
@@ -190,7 +190,7 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 * [**Transformational Security Awareness**, *Perry Carpenter*, 2019](https://learning.oreilly.com/library/view/transformational-security-awareness/9781119566342/)
   * The best Security Awareness book ever written. You'll need this because GRC teams often handle Security Awareness and this will be a great resource to kickstart your program
-  * Goes through the tools you need to build an effective awareness strategy, Marketing, Communications, Behavioural Science, Culture Management, etc. If advertisers have been successful for the past half century, we probably have something to learn from them!
+  * Goes through the tools you need to build an effective awareness strategy, Marketing, Communications, Behavioral Science, Culture Management, etc. If advertisers have been successful for the past half century, we probably have something to learn from them!
 
 * [**Foundations of Information Security**, *Jason Andress*, 2019](https://learning.oreilly.com/library/view/foundations-of-information/9781098122546/)
   * High-level overview of Information Security, touching on every topic relevant for a practitioner or a newcomer to the field
@@ -265,14 +265,13 @@ Added to that, each country would have specific cybersecurity regulations and st
     * [**Part 4**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1113058) deals with how to sell such a cutting-edge approach to auditors and why agility and compliance CAN live in harmony :)
 
 
-
 ## :iphone: Follow them on LinkedIn
 
 * [*Brian Krebs*](https://www.linkedin.com/in/bkrebs/)
 Brian Krebs is an independent investigative journalist. He primarily covers cybercrime, security, and privacy. Mr. Krebs is the Author of 'Spam Nation,' a NYT bestseller.
 
 * [*Troy Hunt*](https://www.linkedin.com/in/troyhunt/)
-Troy Hunt is a Pluralsight Information Security Author & Instructor, Microsoft Regional Director. Mr. Hunt speaks at conferences around the world and runs workshops on building more secure software within organisations. He is also the creator of the data breach aggregation service known as [*"Have I Been Pwned"*](https://haveibeenpwned.com/).
+Troy Hunt is a Pluralsight Information Security Author & Instructor, Microsoft Regional Director. Mr. Hunt speaks at conferences around the world and runs workshops on building more secure software within organizations. He is also the creator of the data breach aggregation service known as [*"Have I Been Pwned."*](https://haveibeenpwned.com/)
 
 * [*Robert Herjavec*](https://www.linkedin.com/in/robertherjavec/)
 Robert Herjavec is the founder of Herjavec Group (and leading Shark on ABC’s Shark Tank). Mr. Herjavec regularly posts about cybercrime, cybersecurity, and risk management, with over 2,000,000 followers.
@@ -296,7 +295,7 @@ Robert Herjavec is the founder of Herjavec Group (and leading Shark on ABC’s S
   * The name is pretty telling. PCI is often discussed in-depth, useful if you're responsible for your company's PCI-DSS program!
 
 * [*Risk, Governance and Cyber Compliance*](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83MjMzOTkucnNz?sa=X&ved=0CAkQlvsGahcKEwjonfmhqKnxAhUAAAAAHQAAAAAQAg) - Hosted by Dr. Bill Souza
-  * The last episode dates back to late 2020 but the content is top-notch and his views on risk management are worth a listen
+  * The last episode dates back to late 2020 but the content is top-notch and his views on risk management are worth a listen.
 
 ## Security GRC Episodes
 
@@ -320,7 +319,7 @@ Probably [the only resource you'll need](https://pauljerimy.com/security-certifi
 
 This section might seem out of place for a content curation repository but I'm passionate about this, sorry.
 
-Security is a very young field and ours is even younger. Career pathways are still developing and no one *actually* knows the sureway to a GRC leadership role or a CISO position.
+Security is a very young field and ours is even younger. Career pathways are still developing and no one *actually* knows the sure way to a GRC leadership role or a CISO position.
 
 The only thing that's certain is that this is the best thing that could happen to us. We can build our own paths. The only way we do this is through learning. Our field is about understanding, managing and translating. We understand the technical, manage security projects and translate into security terms business requirements.
 
@@ -330,6 +329,10 @@ If you're a jack-of-all-trades, love learning new things, being inquisitive but 
 
 Understanding the technical landscape.
 
+How do we know GRC is being done at all?  It is measured!  Put simply, businesses collect and measure data to make decisions.  GRC broadly ensures that decision makers "appetite" for risk is being achieved.
+
+Measurement can occur in many ways, though primarily GRC is concerned with audit.
+
 ## :lock_with_ink_pen: The Security
 
 Understanding the security measures.
@@ -337,3 +340,7 @@ Understanding the security measures.
 ## :briefcase: The Business
 
 Understanding the business language.
+
+Business can be empowered by a strong, comprehensive, and adaptive GRC foundation.  GRC largely exists to support business objectives and corresponding legal (but not always) requirements.  
+
+Some regulations are compulsory to conduct business within geographic areas - Such as Sarbanes-Oxley (SOX) for publicly traded US companies...  While some requirements are set within industry without governmental oversight (see - Payment Card Industry Data Security Standard (PCI DSS)).
