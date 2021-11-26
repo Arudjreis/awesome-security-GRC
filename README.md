@@ -74,7 +74,7 @@ A robust risk management program would also include some quantitative features t
 
 ### Risk Management Frameworks (RMF)
 
-A risk management framework describe the vocabulary, tools and techniques for a coherent approach and ensure that all stakeholders are on the same page.
+A risk management framework describes the vocabulary, tools and techniques for a coherent approach and ensure that all stakeholders are on the same page.
 
 Enterprise frameworks identifies _any type of risk_ that could prevent the company from achieving its business objectives while others focus on information security, cybersecurity and privacy protection.
 
@@ -89,7 +89,7 @@ The Committee of Sponsoring Organizations of the Treadway Commission [(COSO)](ht
 #### International Organization for Standardization (ISO)
 
 [ISO/IEC 27005:2018
-Information technology – Security techniques – Information security risk management](https://www.iso.org/standard/75281.html) provides guidelines to managing _information security risks_ faced by organizations. The application of these guidelines can be applied to an Information Security Management System (ISMS) specified in ISO/IEC 27001 and and ISO/IEC 27002.
+Information technology – Security techniques – Information security risk management](https://www.iso.org/standard/75281.html) provides guidelines to managing _information security risks_ faced by organizations. The application of these guidelines can be applied to an Information Security Management System (ISMS) specified in ISO/IEC 27001 and ISO/IEC 27002.
 
 A technical committee named[ISO/IEC JTC 1/SC 27](https://www.iso.org/committee/45306.html) focus on the development of standards for the protection of information and ICT.
 
@@ -143,7 +143,7 @@ The [Rapid Risk Analysis (RRA) methodology](https://infosec.mozilla.org/guidelin
 
 #### Netflix's riskquant
 
-[riskquant](https://github.com/Netflix-Skunkworks/riskquant) is a python library used for risk quantification. It can be used to do cool things like calculate annualized loss and generate loss exceedence curve charts.
+[riskquant](https://github.com/Netflix-Skunkworks/riskquant) is a python library used for risk quantification. It can be used to do cool things like calculate annualized loss and generate loss exceedance curve charts.
 
 You can use it to assess individual risks or even build automation to run calculations and build charts for all risks where data are available. For example, you can set up a GitHub Action to pull risks from your GRC tool, get the data to run the calculations, and put the results back into your GRC tool.
 
@@ -296,7 +296,7 @@ Robert Herjavec is the founder of Herjavec Group (and leading Shark on ABC’s S
   * The name is pretty telling. PCI is often discussed in-depth, useful if you're responsible for your company's PCI-DSS program!
 
 * [*Risk, Governance and Cyber Compliance*](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83MjMzOTkucnNz?sa=X&ved=0CAkQlvsGahcKEwjonfmhqKnxAhUAAAAAHQAAAAAQAg) - Hosted by Dr. Bill Souza
-  * The last episode dates back to late 2020 but the content is top-notch and his views on risk management are worth a listen
+  * The last episode dates back to late 2020 but the content is top-notch and his views on risk management are worth a listen.
 
 ## Security GRC Episodes
 
@@ -330,6 +330,10 @@ If you're a jack-of-all-trades, love learning new things, being inquisitive but 
 
 Understanding the technical landscape.
 
+How do we know GRC is being done at all?  It is measured!  Put simply, businesses collect and measure data to make decisions.  GRC broadly ensures that decision makers "appetite" for risk is being achieved.
+
+Measurement can occur in many ways, though primarily GRC is concerned with audit.
+
 ## :lock_with_ink_pen: The Security
 
 Understanding the security measures.
@@ -337,3 +341,7 @@ Understanding the security measures.
 ## :briefcase: The Business
 
 Understanding the business language.
+
+Business can be empowered by a strong, comprehensive, and adaptive GRC foundation.  GRC largely exists to support business objectives and corresponding legal (but not always) requirements.  
+
+Some regulations are compulsory to conduct business within geographic areas - Such as Sarbanes-Oxley (SOX) for publicly traded US companies...  While some requirements are set within industry without governmental oversight (see - Payment Card Industry Data Security Standard (PCI DSS)).
