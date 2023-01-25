@@ -1,4 +1,4 @@
-![GRC in a nutshell](https://www.ideagen.com/media/11748/grc-circle.png)
+<img src="https://www.ideagen.com/media/11748/grc-circle.png" width="300" class="center">
 
 # :tada: Grand Repository Challenge accepted!
 
