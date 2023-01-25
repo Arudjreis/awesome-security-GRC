@@ -1,24 +1,24 @@
-![GRC in a nutshell](https://www.softexpert.com/wp-content/uploads/2016/09/xframework-grc-2.png.pagespeed.ic.7RthXjt7xe.png)
+![GRC in a nutshell](https://www.ideagen.com/media/11748/grc-circle.png)
 
 # :tada: Grand Repository Challenge accepted!
 
-This is a list of resources (most are free, some are cheap, a handful are expensive) for security GRC folks.
+This is a list of resources for security GRC folks.
 
-Each of you probably has a different title. Cyber Risk Managers, Security Compliance Program Managers, Business Information Security Officers, Security Risk & Compliance Senior Analysts, Third-Party Risk Management Lead, Information Assurance Officer, GRC something, etc.
+Each of you probably has a different title. Cyber Risk Managers, Security Compliance Program Managers, Business Information Security Officers, Head of the Department of **No**, etc.
 
-This variety is naming isn't that great because it's *easier* for software developers to come together as a community to organize knowledge and share information. A major foundation of knowledge is useful and relevant to most SWE.
+This variety makes it more challenging to come together as a community compared to software engineer to organize knowledge and share information.
 
-Our field is only a couple of decades old and has exponentially grown in the past five years.
+Our field is pretty new and has exponentially grown in the past five years.
 
-Some of us work for SaaS companies (me! :bowtie:), financial services, healthcare, government, retail and a dozen other industries. Scope, budget, stakeholders and degrees of resentment can vary but there's a solid foundation common to most of us (let's say about 80%).
+We can work for SaaS companies (me! :bowtie:), financial services, healthcare, government, retail or a dozen other industries. Scope, budget, stakeholders and degrees of resentment can vary but some work activities are common to all of us (the resentment as well).
 
-So I thought, why not build a knowledge management platform... I know it's a GitHub repo but that makes my endeavour sound a lot more serious and technical than it actually is. I just thought content curation lists were amazing and that we should have one!
+So the thought was, why not build a knowledge bank for GRC. I know it's a GitHub repo but that gives the endeavour some illusion of grandeur. I just thought content curation lists were amazing and that we should have one!
 
 This is GitHub which means, Pull Requests are more than welcome! Nothing here is gospel, definitions are often subject to debates and heated discussions on LinkedIn and everyone has a different opinion on G, R and C (hatred for C is probably consensual IMHO).
 
-Feel free to share your resources, correct my faulty Frenglish or add cooler emojis.
+Feel free to share your resources or add cooler emojis.
 
-> *This contains an awful lot of expert puns and boomer jokes*
+> *This might include expert expert puns and boomer jokes*
 
 ## :notebook_with_decorative_cover: Contents
 
