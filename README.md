@@ -88,8 +88,8 @@ The Committee of Sponsoring Organizations of the Treadway Commission [(COSO)](ht
 
 #### International Organization for Standardization (ISO)
 
-[ISO/IEC 27005:2018
-Information technology – Security techniques – Information security risk management](https://www.iso.org/standard/75281.html) provides guidelines to managing _information security risks_ faced by organizations. The application of these guidelines can be applied to an Information Security Management System (ISMS) specified in ISO/IEC 27001 and ISO/IEC 27002.
+[ISO/IEC 27005:2022
+Information security, cybersecurity and privacy protection — Guidance on managing information security risks](https://www.iso.org/standard/80585.html) provides guidelines to managing _information security risks_ faced by organizations. The application of these guidelines can be applied to an Information Security Management System (ISMS) specified in ISO/IEC 27001 and ISO/IEC 27002.
 
 A technical committee named[ISO/IEC JTC 1/SC 27](https://www.iso.org/committee/45306.html) focus on the development of standards for the protection of information and ICT.
 
