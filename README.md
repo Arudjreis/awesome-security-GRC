@@ -290,6 +290,9 @@ Robert Herjavec is the founder of Herjavec Group (and leading Shark on ABC’s S
 * [*The SecureWorld Sessions*](https://podcasts.apple.com/us/podcast/the-secureworld-sessions/id1478674556)
   * Cybersecurity weekly podcast series featuring industry thought leaders discussing security solutions, best practices, threat intel, and more.
 
+* [*Cloud Security Podcast*](https://cloudsecuritypodcast.tv/)
+  * Cloud Security weekly podcast series featuring industry thought leaders in Cloud Security from companies like Linkedin, Netflix, Twilio, CapitalOne & more discussing Cloud security challenges and how they guest solved them, best practices, offensive side of cloud security, and more.
+
 ## Security GRC Podcasts
 
 * [*Security & Compliance Weekly*](https://podcasts.google.com/feed/aHR0cHM6Ly9zY3dhdWRpby5saWJzeW4uY29tL3Jzcw) - Hosted by Jeff Man, Scott Lyons and Josh Marpet
