@@ -277,6 +277,9 @@ Troy Hunt is a Pluralsight Information Security Author & Instructor, Microsoft R
 * [*Robert Herjavec*](https://www.linkedin.com/in/robertherjavec/)
 Robert Herjavec is the founder of Herjavec Group (and leading Shark on ABC’s Shark Tank). Mr. Herjavec regularly posts about cybercrime, cybersecurity, and risk management, with over 2,000,000 followers.
 
+* [*Troy Fine*](https://www.linkedin.com/in/troyjfine/)
+Troy is a CPA, CISA, CISSP and CMMC Provisional Assessor. His areas of expertise include, GRC, SOC 1, SOC 2, ISO 27001, ISO 27017, ISO 27018, ISO 27701, CMMC, NIST 800-171, NIST 800-53, SOX, HITRUST, HIPAA, PCI DSS, FedRAMP, StateRAMP, and GDPR.
+
 # :octocat: Repositories
 
 * [*Minimslist Risk Management*](https://github.com/magoo/minimalist-risk-management)
