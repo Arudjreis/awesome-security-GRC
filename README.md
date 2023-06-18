@@ -91,7 +91,7 @@ The Committee of Sponsoring Organizations of the Treadway Commission [(COSO)](ht
 [ISO/IEC 27005:2022
 Information security, cybersecurity and privacy protection — Guidance on managing information security risks](https://www.iso.org/standard/80585.html) provides guidelines to managing _information security risks_ faced by organizations. The application of these guidelines can be applied to an Information Security Management System (ISMS) specified in ISO/IEC 27001 and ISO/IEC 27002.
 
-A technical committee named[ISO/IEC JTC 1/SC 27](https://www.iso.org/committee/45306.html) focus on the development of standards for the protection of information and ICT.
+A technical committee named [ISO/IEC JTC 1/SC 27](https://www.iso.org/committee/45306.html) focus on the development of standards for the protection of information and ICT.
 
 [ISO 31000](https://www.iso.org/iso-31000-risk-management.html) provides a common approach to managing _any type of risk_ faced by organizations. The application of these guidelines can be customized to any organization and its context.
 
@@ -233,7 +233,7 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 * I have a full playlist of over [80 videos focus on Risk Management and Cyber Risk Quantification,](https://www.youtube.com/playlist?list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) will update it soon but it already has a lot.
   * This quick live [Quantitative Cyber Risk Analysis](https://www.youtube.com/watch?v=fHUv8TJC6kM&list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) from *Evan Wheeler* is a great overview of how straightforward a quantitative analysis can be
-  * *Steve Reznik* has numerous talks on how FAIR can help build meaningful KRIs but [this one](https://www.youtube.com/watch?v=w4x1tWTiCHg&list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) is a starting suggestion
+  * *Steve Reznik* has numerous talks on how FAIR can help build meaningful KRIs but [this one](https://www.youtube.com/watch?v=w4x1tWTiCHg&list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) is a good suggestion.
 
 # :telephone_receiver: People you should know
 
@@ -264,18 +264,17 @@ Added to that, each country would have specific cybersecurity regulations and st
     * [**Part 3**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1106264) demonstrates with the Atlassian product suite how compliance is embedded into the CI/CD pipeline
     * [**Part 4**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1113058) deals with how to sell such a cutting-edge approach to auditors and why agility and compliance CAN live in harmony :)
 
-
-
 ## :iphone: Follow them on LinkedIn
 
-* [*Brian Krebs*](https://www.linkedin.com/in/bkrebs/)
-Brian Krebs is an independent investigative journalist. He primarily covers cybercrime, security, and privacy. Mr. Krebs is the Author of 'Spam Nation,' a NYT bestseller.
+* [*Troy Fine*](https://www.linkedin.com/in/troyjfine/), GRC general knowledge and SOC focus.
 
-* [*Troy Hunt*](https://www.linkedin.com/in/troyhunt/)
-Troy Hunt is a Pluralsight Information Security Author & Instructor, Microsoft Regional Director. Mr. Hunt speaks at conferences around the world and runs workshops on building more secure software within organisations. He is also the creator of the data breach aggregation service known as [*"Have I Been Pwned"*](https://haveibeenpwned.com/).
+* [*AJ Yawn*](https://www.linkedin.com/in/troyhunt/), GRC general knowledge and SOC focus.
 
-* [*Robert Herjavec*](https://www.linkedin.com/in/robertherjavec/)
-Robert Herjavec is the founder of Herjavec Group (and leading Shark on ABC’s Shark Tank). Mr. Herjavec regularly posts about cybercrime, cybersecurity, and risk management, with over 2,000,000 followers.
+* [*Aron Lange*](https://www.linkedin.com/in/ajyawn/), ISO 27001 focus.
+
+* [*Jacob Horne*](https://www.linkedin.com/in/jacob-evan-horne/), NIST and CMMC focus.
+
+* [*Ayoub Fandi*](https://www.linkedin.com/in/ayoubfandi/), GRC general knowledge and cloud-native GRC focus.
 
 # :octocat: Repositories
 
@@ -283,9 +282,6 @@ Robert Herjavec is the founder of Herjavec Group (and leading Shark on ABC’s S
   * Ryan McGeehan, a founder/advisor for HackerOne, has developed minimalist documentation to describe a simple risk management program.
 
 # :microphone: Podcasts
-
-* [*Security Now*](https://www.grc.com/securitynow.htm) - Hosted by Steve Gibson and Leo Laporte
-  * Stay up-to-date and deepen your cybersecurity acumen with Security Now. On this long-running podcast, cybersecurity authority Steve Gibson and technology expert Leo Laporte bring their extensive and historical knowledge to explore digital security topics in depth. Each week, they take complex issues and break them down for clarity and big-picture understanding.
 
 * [*The SecureWorld Sessions*](https://podcasts.apple.com/us/podcast/the-secureworld-sessions/id1478674556)
   * Cybersecurity weekly podcast series featuring industry thought leaders discussing security solutions, best practices, threat intel, and more.
@@ -300,6 +296,10 @@ Robert Herjavec is the founder of Herjavec Group (and leading Shark on ABC’s S
 
 * [*Risk, Governance and Cyber Compliance*](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83MjMzOTkucnNz?sa=X&ved=0CAkQlvsGahcKEwjonfmhqKnxAhUAAAAAHQAAAAAQAg) - Hosted by Dr. Bill Souza
   * The last episode dates back to late 2020 but the content is top-notch and his views on risk management are worth a listen.
+
+* [*The GRC Podcast*](https://www.thegrcpodcast.com/) - Hosted by Mark Graziano
+  * The goal of this podcast is to shine light on GRC security champions and showcase the much of a dynamic security discipline GRC is.
+
 
 ## Security GRC Episodes
 
