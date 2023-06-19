@@ -276,6 +276,9 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 * [*Ayoub Fandi*](https://www.linkedin.com/in/ayoubfandi/), GRC general knowledge and cloud-native GRC focus.
 
+* [*Troy Fine*](https://www.linkedin.com/in/troyjfine/)
+Troy is a CPA, CISA, CISSP and CMMC Provisional Assessor. His areas of expertise include, GRC, SOC 1, SOC 2, ISO 27001, ISO 27017, ISO 27018, ISO 27701, CMMC, NIST 800-171, NIST 800-53, SOX, HITRUST, HIPAA, PCI DSS, FedRAMP, StateRAMP, and GDPR.
+
 # :octocat: Repositories
 
 * [*Minimslist Risk Management*](https://github.com/magoo/minimalist-risk-management)
