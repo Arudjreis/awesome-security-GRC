@@ -1,24 +1,24 @@
-![GRC in a nutshell](https://www.softexpert.com/wp-content/uploads/2016/09/xframework-grc-2.png.pagespeed.ic.7RthXjt7xe.png)
+<img src="https://www.ideagen.com/media/11748/grc-circle.png" width="300" class="center">
 
 # :tada: Grand Repository Challenge accepted!
 
-This is a list of resources (most are free, some are cheap, a handful are expensive) for security GRC folks.
+This is a list of resources for security GRC folks.
 
-Each of you probably has a different title. Cyber Risk Managers, Security Compliance Program Managers, Business Information Security Officers, Security Risk & Compliance Senior Analysts, Third-Party Risk Management Lead, Information Assurance Officer, GRC something, etc.
+Each of you probably has a different title. Cyber Risk Managers, Security Compliance Program Managers, Business Information Security Officers, Head of the Department of **No**, etc.
 
-This variety is naming isn't that great because it's *easier* for software developers to come together as a community to organize knowledge and share information. A major foundation of knowledge is useful and relevant to most SWE.
+This variety makes it more challenging to come together as a community compared to software engineer to organize knowledge and share information.
 
-Our field is only a couple of decades old and has exponentially grown in the past five years.
+Our field is pretty new and has exponentially grown in the past five years.
 
-Some of us work for SaaS companies (me! :bowtie:), financial services, healthcare, government, retail and a dozen other industries. Scope, budget, stakeholders and degrees of resentment can vary but there's a solid foundation common to most of us (let's say about 80%).
+We can work for SaaS companies (me! :bowtie:), financial services, healthcare, government, retail or a dozen other industries. Scope, budget, stakeholders and degrees of resentment can vary but some work activities are common to all of us (the resentment as well).
 
-So I thought, why not build a knowledge management platform... I know it's a GitHub repo but that makes my endeavour sound a lot more serious and technical than it actually is. I just thought content curation lists were amazing and that we should have one!
+So the thought was, why not build a knowledge bank for GRC. I know it's a GitHub repo but that gives the endeavour some illusion of grandeur. I just thought content curation lists were amazing and that we should have one!
 
 This is GitHub which means, Pull Requests are more than welcome! Nothing here is gospel, definitions are often subject to debates and heated discussions on LinkedIn and everyone has a different opinion on G, R and C (hatred for C is probably consensual IMHO).
 
-Feel free to share your resources, correct my faulty Frenglish or add cooler emojis.
+Feel free to share your resources or add cooler emojis.
 
-> *This contains an awful lot of expert puns and boomer jokes*
+> *This might include expert expert puns and boomer jokes*
 
 ## :notebook_with_decorative_cover: Contents
 
@@ -74,7 +74,7 @@ A robust risk management program would also include some quantitative features t
 
 ### Risk Management Frameworks (RMF)
 
-A risk management framework describe the vocabulary, tools and techniques for a coherent approach and ensure that all stakeholders are on the same page.
+A risk management framework describes the vocabulary, tools and techniques for a coherent approach and ensure that all stakeholders are on the same page.
 
 Enterprise frameworks identifies _any type of risk_ that could prevent the company from achieving its business objectives while others focus on information security, cybersecurity and privacy protection.
 
@@ -88,10 +88,10 @@ The Committee of Sponsoring Organizations of the Treadway Commission [(COSO)](ht
 
 #### International Organization for Standardization (ISO)
 
-[ISO/IEC 27005:2018
-Information technology – Security techniques – Information security risk management](https://www.iso.org/standard/75281.html) provides guidelines to managing _information security risks_ faced by organizations. The application of these guidelines can be applied to an Information Security Management System (ISMS) specified in ISO/IEC 27001 and and ISO/IEC 27002.
+[ISO/IEC 27005:2022
+Information security, cybersecurity and privacy protection — Guidance on managing information security risks](https://www.iso.org/standard/80585.html) provides guidelines to managing _information security risks_ faced by organizations. The application of these guidelines can be applied to an Information Security Management System (ISMS) specified in ISO/IEC 27001 and ISO/IEC 27002.
 
-A technical committee named[ISO/IEC JTC 1/SC 27](https://www.iso.org/committee/45306.html) focus on the development of standards for the protection of information and ICT.
+A technical committee named [ISO/IEC JTC 1/SC 27](https://www.iso.org/committee/45306.html) focus on the development of standards for the protection of information and ICT.
 
 [ISO 31000](https://www.iso.org/iso-31000-risk-management.html) provides a common approach to managing _any type of risk_ faced by organizations. The application of these guidelines can be customized to any organization and its context.
 
@@ -143,7 +143,7 @@ The [Rapid Risk Analysis (RRA) methodology](https://infosec.mozilla.org/guidelin
 
 #### Netflix's riskquant
 
-[riskquant](https://github.com/Netflix-Skunkworks/riskquant) is a python library used for risk quantification. It can be used to do cool things like calculate annualized loss and generate loss exceedence curve charts.
+[riskquant](https://github.com/Netflix-Skunkworks/riskquant) is a python library used for risk quantification. It can be used to do cool things like calculate annualized loss and generate loss exceedance curve charts.
 
 You can use it to assess individual risks or even build automation to run calculations and build charts for all risks where data are available. For example, you can set up a GitHub Action to pull risks from your GRC tool, get the data to run the calculations, and put the results back into your GRC tool.
 
@@ -233,7 +233,7 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 * I have a full playlist of over [80 videos focus on Risk Management and Cyber Risk Quantification,](https://www.youtube.com/playlist?list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) will update it soon but it already has a lot.
   * This quick live [Quantitative Cyber Risk Analysis](https://www.youtube.com/watch?v=fHUv8TJC6kM&list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) from *Evan Wheeler* is a great overview of how straightforward a quantitative analysis can be
-  * *Steve Reznik* has numerous talks on how FAIR can help build meaningful KRIs but [this one](https://www.youtube.com/watch?v=w4x1tWTiCHg&list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) is a starting suggestion
+  * *Steve Reznik* has numerous talks on how FAIR can help build meaningful KRIs but [this one](https://www.youtube.com/watch?v=w4x1tWTiCHg&list=PLj4UOrWWdhG-Lqk9DOvShUdbwRZcGWhRH) is a good suggestion.
 
 # :telephone_receiver: People you should know
 
@@ -264,18 +264,17 @@ Added to that, each country would have specific cybersecurity regulations and st
     * [**Part 3**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1106264) demonstrates with the Atlassian product suite how compliance is embedded into the CI/CD pipeline
     * [**Part 4**](https://community.atlassian.com/t5/Compliance-articles/Series-How-to-prioritize-compliance-without-losing-development/ba-p/1113058) deals with how to sell such a cutting-edge approach to auditors and why agility and compliance CAN live in harmony :)
 
-
-
 ## :iphone: Follow them on LinkedIn
 
-* [*Brian Krebs*](https://www.linkedin.com/in/bkrebs/)
-Brian Krebs is an independent investigative journalist. He primarily covers cybercrime, security, and privacy. Mr. Krebs is the Author of 'Spam Nation,' a NYT bestseller.
+* [*Troy Fine*](https://www.linkedin.com/in/troyjfine/), GRC general knowledge and SOC focus.
 
-* [*Troy Hunt*](https://www.linkedin.com/in/troyhunt/)
-Troy Hunt is a Pluralsight Information Security Author & Instructor, Microsoft Regional Director. Mr. Hunt speaks at conferences around the world and runs workshops on building more secure software within organisations. He is also the creator of the data breach aggregation service known as [*"Have I Been Pwned"*](https://haveibeenpwned.com/).
+* [*AJ Yawn*](https://www.linkedin.com/in/troyhunt/), GRC general knowledge and SOC focus.
 
-* [*Robert Herjavec*](https://www.linkedin.com/in/robertherjavec/)
-Robert Herjavec is the founder of Herjavec Group (and leading Shark on ABC’s Shark Tank). Mr. Herjavec regularly posts about cybercrime, cybersecurity, and risk management, with over 2,000,000 followers.
+* [*Aron Lange*](https://www.linkedin.com/in/ajyawn/), ISO 27001 focus.
+
+* [*Jacob Horne*](https://www.linkedin.com/in/jacob-evan-horne/), NIST and CMMC focus.
+
+* [*Ayoub Fandi*](https://www.linkedin.com/in/ayoubfandi/), GRC general knowledge and cloud-native GRC focus.
 
 # :octocat: Repositories
 
@@ -284,11 +283,11 @@ Robert Herjavec is the founder of Herjavec Group (and leading Shark on ABC’s S
 
 # :microphone: Podcasts
 
-* [*Security Now*](https://www.grc.com/securitynow.htm) - Hosted by Steve Gibson and Leo Laporte
-  * Stay up-to-date and deepen your cybersecurity acumen with Security Now. On this long-running podcast, cybersecurity authority Steve Gibson and technology expert Leo Laporte bring their extensive and historical knowledge to explore digital security topics in depth. Each week, they take complex issues and break them down for clarity and big-picture understanding.
-
 * [*The SecureWorld Sessions*](https://podcasts.apple.com/us/podcast/the-secureworld-sessions/id1478674556)
   * Cybersecurity weekly podcast series featuring industry thought leaders discussing security solutions, best practices, threat intel, and more.
+
+* [*Cloud Security Podcast*](https://cloudsecuritypodcast.tv/)
+  * Cloud Security weekly podcast series featuring industry thought leaders in Cloud Security from companies like Linkedin, Netflix, Twilio, CapitalOne & more discussing Cloud security challenges and how they guest solved them, best practices, offensive side of cloud security, and more.
 
 ## Security GRC Podcasts
 
@@ -296,7 +295,11 @@ Robert Herjavec is the founder of Herjavec Group (and leading Shark on ABC’s S
   * The name is pretty telling. PCI is often discussed in-depth, useful if you're responsible for your company's PCI-DSS program!
 
 * [*Risk, Governance and Cyber Compliance*](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83MjMzOTkucnNz?sa=X&ved=0CAkQlvsGahcKEwjonfmhqKnxAhUAAAAAHQAAAAAQAg) - Hosted by Dr. Bill Souza
-  * The last episode dates back to late 2020 but the content is top-notch and his views on risk management are worth a listen
+  * The last episode dates back to late 2020 but the content is top-notch and his views on risk management are worth a listen.
+
+* [*The GRC Podcast*](https://www.thegrcpodcast.com/) - Hosted by Mark Graziano
+  * The goal of this podcast is to shine light on GRC security champions and showcase the much of a dynamic security discipline GRC is.
+
 
 ## Security GRC Episodes
 
@@ -330,6 +333,10 @@ If you're a jack-of-all-trades, love learning new things, being inquisitive but 
 
 Understanding the technical landscape.
 
+How do we know GRC is being done at all?  It is measured!  Put simply, businesses collect and measure data to make decisions.  GRC broadly ensures that decision makers "appetite" for risk is being achieved.
+
+Measurement can occur in many ways, though primarily GRC is concerned with audit.
+
 ## :lock_with_ink_pen: The Security
 
 Understanding the security measures.
@@ -338,36 +345,6 @@ Understanding the security measures.
 
 Understanding the business language.
 
-To effectively navigate the world of Governance, Risk, and Compliance (GRC),it is important to understand business language, goals, and context in which GRC operates. Understanding the business landscape helps GRC professionals communicate effectively, align their efforts with business objectives, and provide valuable insights to stakeholders. Here are some key aspects of understanding the business language in the context of GRC:
+Business can be empowered by a strong, comprehensive, and adaptive GRC foundation.  GRC largely exists to support business objectives and corresponding legal (but not always) requirements.  
 
-*  Business Goals and Objectives
-    
-    GRC professionals need to familiarize themselves with the organization's business goals and objectives. This includes understanding the company's mission, vision, and strategic priorities. By aligning GRC efforts with these goals, professionals can ensure that governance, risk management, and compliance activities contribute to the overall success of the business.  
-    
-    ** Note:  Business objectives are *not always* complying with all laws, frameworks, controls, etc. for various reasons, and it is your position to understand and implement key goals and Objectives. 
-
-*  Industry and Regulatory Environment
-
-    Every industry operates within specific regulatory frameworks and faces unique compliance requirements. GRC professionals must have a solid understanding of the industry in which their organization operates, as well as the relevant laws, regulations, and standards that apply. This knowledge enables them to assess and address compliance risks effectively and ensure that the organization remains in good standing with regulatory bodies.  
-    
-    ** Note:  If your business operates internationally, you more likely than not are obligated to comply with GDPR (see Euro section above :euro:)
-
-*  Business Processes and Operations
-
-    GRC activities are deeply intertwined with the organization's business processes and operations. GRC professionals need to gain a thorough understanding of these processes, including how data flows, how decisions are made, and how risks are managed. This knowledge allows them to identify potential gaps or weaknesses in controls and recommend improvements that align with the organization's business objectives.
-
-*  Key Stakeholders and Relationships
-
-    Successful GRC professionals develop strong relationships with key stakeholders across the organization. These stakeholders may include executives, department heads, IT leaders, legal counsel, internal auditors, and external partners. Understanding the roles and responsibilities of these stakeholders, as well as their priorities and concerns, is essential for effective collaboration and obtaining support for GRC initiatives.
-
-*  Financial Impact and Business Case
-
-    GRC initiatives should be presented in the context of their financial impact and the overall business case. GRC professionals should be able to articulate how their efforts contribute to cost reduction, operational efficiency, risk mitigation, and protection of the organization's reputation. Quantifying the potential financial and non-financial benefits helps gain support from senior management and secure resources for GRC initiatives.
-
-*  Performance Metrics and Key Indicators
-
-    Measuring and tracking performance is essential in GRC. GRC professionals should be familiar with the key performance metrics and key risk indicators relevant to their organization and industry. This includes metrics related to compliance, risk management, incident response, and the effectiveness of control activities. By monitoring these metrics, GRC professionals can provide meaningful insights to stakeholders and identify areas for improvement.
-
-*  Business Continuity and Resilience
-
-    Understanding the organization's business continuity and resilience plans is crucial for GRC professionals. This involves being familiar with disaster recovery procedures, crisis management protocols, and incident response plans. By integrating GRC activities with business continuity efforts, professionals can help ensure that the organization is prepared to respond to and recover from disruptions effectively.
+Some regulations are compulsory to conduct business within geographic areas - Such as Sarbanes-Oxley (SOX) for publicly traded US companies...  While some requirements are set within industry without governmental oversight (see - Payment Card Industry Data Security Standard (PCI DSS)).
