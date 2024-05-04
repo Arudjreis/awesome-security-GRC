@@ -140,6 +140,14 @@ The [Rapid Risk Analysis (RRA) methodology](https://infosec.mozilla.org/guidelin
     * Policy Generator: markdown-powered document pipeline for publishing auditor-friendly policy documents
     * Ticketing Integration: automate compliance throughout the year via your existing ticketing system
     * SOC2 Templates: open source policy and procedure templates suitable for satisfying a SOC2 audit
+* [*CISO Assistant*](https://github.com/intuitem/ciso-assistant-community)
+  * One-Stop-Shop solution for Governance, Risk Management and Compliance
+  * Support +33 frameworks worldwide
+  * Suppport multi level frameworks and maturity assessment
+  * One-click Audit report generation
+  * API available, which gives a lot of options for integration and automation
+  * Customizable and extensible with an open format and simple synatx (for custom framework to personalized matrix)
+  * Very active community 
 
 #### Netflix's riskquant
 
