@@ -142,12 +142,13 @@ The [Rapid Risk Analysis (RRA) methodology](https://infosec.mozilla.org/guidelin
     * SOC2 Templates: open source policy and procedure templates suitable for satisfying a SOC2 audit
 * [*CISO Assistant*](https://github.com/intuitem/ciso-assistant-community)
   * One-Stop-Shop solution for Governance, Risk Management and Compliance
-  * Support +33 frameworks worldwide
+  * Support +46 frameworks worldwide
+  * Available in +8 languages
   * Suppport multi level frameworks and maturity assessment
   * One-click Audit report generation
   * API available, which gives a lot of options for integration and automation
-  * Customizable and extensible with an open format and simple synatx (for custom framework to personalized matrix)
-  * Very active community 
+  * Customizable and extensible with an open format and simple syntax (for custom framework or personalized matrix)
+  * Open-source first and Very active community 
 
 #### Netflix's riskquant
 
