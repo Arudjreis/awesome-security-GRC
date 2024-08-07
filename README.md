@@ -170,6 +170,7 @@ Well...  There are a lot.  Your organization likely uses some of these, but cert
 * :oncoming_police_car: Security and Privacy Controls for Information Systems and Organizations - [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
 * 🗄️ Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations - [NIST SP 800-171 Rev. 2](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final)
 * 📏 NIST Cybersecurity Framework - [NIST CSF](https://www.nist.gov/cyberframework)
+* 🇪🇺 Directive on measures for a high common level of cybersecurity across the Union [NIS2 Directive](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive)
 
 Added to that, each country would have specific cybersecurity regulations and standards companies would have to comply with. They could be specific to certain industries (critical infrastructures or financial services) or applicable to every company. As our planet is made of a lot of countries, we won't list the specifics here and as is often the case, US standards are picked up in most of the world anyway!
 
